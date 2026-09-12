@@ -1,0 +1,147 @@
+{
+  "blocs": {
+    "Etoiles": {
+      "date": "05/09/2026",
+      "items": [
+        {
+          "code": "CA",
+          "valeur": "Carrefour",
+          "tendance": "haussière",
+          "score": 3,
+          "commentaire": "Le titre enchaîne les séances positives depuis fin août et affiche une progression de plus de 15% depuis le 1er janvier, porté par des résultats semestriels 2026 conformes aux objectifs. Le consensus des analystes reste toutefois prudent, avec un objectif de cours moyen inférieur au cours actuel, ce qui traduit des réserves sur la valorisation à ce niveau."
+        },
+        {
+          "code": "COTY",
+          "valeur": "Coty",
+          "tendance": "très volatile",
+          "score": 2,
+          "commentaire": "Coty traverse une passe difficile, avec un titre en repli de plus de 50% sur un an et plusieurs remaniements de la direction. La cession de la licence Gucci Beauty à Kering pour 400 millions de dollars apporte du cash mais confirme un recentrage sous contrainte plutôt qu'un vrai redressement pour l'instant."
+        },
+        {
+          "code": "EDEN",
+          "valeur": "Edenred",
+          "tendance": "haussière",
+          "score": 4,
+          "commentaire": "Edenred évolue tout près de ses plus hauts sur 52 semaines, avec une tendance de fond bien orientée sur les dernières semaines et un rendement de dividende proche de 4,5%. Le secteur des avantages salariés reste porteur, malgré une vigilance à garder sur le risque réglementaire au Brésil qui touche aussi des acteurs comparables comme Pluxee."
+        },
+        {
+          "code": "FRVIA",
+          "valeur": "Forvia",
+          "tendance": "rebond récent",
+          "score": 3,
+          "commentaire": "Forvia a bondi de plus de 6% début septembre après un résultat net semestriel revenu à l'équilibre, contre une perte un an plus tôt, et une confirmation des objectifs 2026. Le désendettement progresse, mais le titre reste très en retrait sur un an (autour de -29%) et demeure sensible aux nouvelles du secteur automobile, notamment en Chine."
+        },
+        {
+          "code": "ATEME",
+          "valeur": "Ateme",
+          "tendance": "forte croissance, surachat",
+          "score": 3,
+          "commentaire": "Ateme affiche une dynamique commerciale remarquable avec une croissance de 29% de son chiffre d'affaires au 2e trimestre 2026 et un référencement par Apple lors de la WWDC26. La tendance technique est très haussière, mais le RSI élevé signale une zone de surachat : les prochaines publications seront à surveiller pour confirmer la trajectoire."
+        },
+        {
+          "code": "JCQ",
+          "valeur": "Jacquet Metal Service",
+          "tendance": "value / décote",
+          "score": 3,
+          "commentaire": "Jacquet Metals reste un dossier typé 'value', se traitant avec une décote sur ses fonds propres (Price-to-Book autour de 0,7x) alors que la tendance de fond est haussière, le cours restant au-dessus de ses moyennes mobiles longues. Un léger essoufflement à court terme est visible sur les indicateurs de momentum, mais les objectifs de cours des analystes restent supérieurs au cours actuel."
+        },
+        {
+          "code": "ML",
+          "valeur": "Michelin",
+          "tendance": "stable",
+          "score": 3,
+          "commentaire": "Michelin évolue de façon plus calme autour de 34-35€, avec des objectifs 2026 confirmés et un dividende régulier offrant un rendement proche de 4%. Les indicateurs techniques sont globalement neutres, ce qui correspond au profil habituel de valeur défensive du titre au sein du CAC 40."
+        },
+        {
+          "code": "PLX",
+          "valeur": "Pluxee",
+          "tendance": "redressement progressif",
+          "score": 3,
+          "commentaire": "Pluxee a rassuré le marché avec des résultats trimestriels meilleurs qu'attendu et une rentabilité en hausse (EBITDA récurrent +12,9%), tout en confirmant ses objectifs annuels. Le titre reste néanmoins sous surveillance réglementaire, avec une enquête concurrentielle en cours au Chili et un contexte encore compliqué au Brésil."
+        },
+        {
+          "code": "AC",
+          "valeur": "Accor",
+          "tendance": "haussière",
+          "score": 4,
+          "commentaire": "Accor progresse nettement début septembre, soutenu par un programme de rachat d'actions actif (nouvelle tranche de 225 millions d'euros) et la cession de sa participation dans Essendi (ex-AccorInvest) à Blackstone. Le premier semestre 2026 reste toutefois contrasté, avec un chiffre d'affaires stable mais des bénéfices en recul, en partie pénalisés par le conflit au Moyen-Orient."
+        }
+      ]
+    },
+    "Les valeurs qui montent": {
+      "date": "12/09/2026",
+      "items": [
+        {
+          "code": "VMX",
+          "valeur": "Verimatrix",
+          "tendance": "redressement, très volatile",
+          "score": 3,
+          "commentaire": "Verimatrix profite de son recentrage sur l'antipiratage, avec une perte nette réduite au 1er semestre 2026 et un accord de refinancement de sa dette qui soulage ses finances. Le titre a plus que doublé depuis janvier, mais le consensus des analystes (2 avis) affiche un objectif de cours proche du niveau actuel : la valorisation intègre déjà une bonne partie du redressement. À surveiller : petite capitalisation, forte volatilité au quotidien."
+        },
+        {
+          "code": "OVH",
+          "valeur": "OVH Groupe",
+          "tendance": "haussière, actualité RH sensible",
+          "score": 3,
+          "commentaire": "OVHcloud affiche une progression de plus de 90% depuis le 1er janvier et un consensus analystes majoritairement à l'achat avec un objectif de cours supérieur de 20% au cours actuel. Le titre reste toutefois nerveux : il a chuté de 8% fin août après le départ surprise de sa directrice financière, un point de vigilance sur la gouvernance à court terme, dans un secteur cloud très capitalistique."
+        },
+        {
+          "code": "TTE",
+          "valeur": "TotalEnergies",
+          "tendance": "stable, dividende",
+          "score": 3,
+          "commentaire": "TotalEnergies conserve un profil défensif avec un PER estimé autour de 8x, jugé attractif par plusieurs analystes, et un dividende trimestriel régulier (prochain détachement dans une vingtaine de jours). Le groupe continue d'annoncer des découvertes et accords (Angola, Namibie), mais Goldman Sachs reste neutre sur le titre et le secteur demeure exposé aux variations du prix du pétrole."
+        },
+        {
+          "code": "BAIN",
+          "valeur": "Bains de Mer de Monaco",
+          "tendance": "haussière, résultats records",
+          "score": 4,
+          "commentaire": "La Société des Bains de Mer a publié un résultat net record de 112,9 M€ sur son dernier exercice, porté par la vigueur de son activité de jeux, et vient d'annoncer un dividende annuel. Le titre a doublé de valeur en cinq ans selon la presse spécialisée ; point de vigilance : la valeur reste peu liquide (faible flottant) et déjà valorisée avec un PER élevé (>20x)."
+        },
+        {
+          "code": "EXA",
+          "valeur": "Exail Technologies",
+          "tendance": "forte hausse, valorisation tendue",
+          "score": 3,
+          "commentaire": "Exail Technologies (défense et technologies sous-marines) a bondi de plus de 50% depuis janvier et vient d'intégrer le SBF 120. Le PER estimé 2026 ressort néanmoins très élevé (autour de 84x), ce qui traduit des attentes de croissance fortes déjà intégrées dans le cours. Les résultats semestriels attendus à la mi-septembre 2026 seront un catalyseur clé à surveiller."
+        },
+        {
+          "code": "LIN",
+          "valeur": "Linedata",
+          "tendance": "baissière, fondamentaux fragiles",
+          "score": 2,
+          "commentaire": "Linedata reste pénalisé par un chiffre d'affaires en recul (-4,8% au 1er semestre 2026, après -8,5% au T1), dans un contexte encore marqué par les suites d'une cyberattaque l'été dernier. Le dividende reste généreux (rendement proche de 4,6%) mais la tendance des revenus est le principal point de vigilance : la présence de la valeur dans ce bloc tient davantage à un sursaut de volumes récent qu'à une amélioration de fond confirmée."
+        },
+        {
+          "code": "RUI",
+          "valeur": "Rubis",
+          "tendance": "forte hausse, guidance relevée",
+          "score": 5,
+          "commentaire": "Rubis a signé la meilleure publication du SBF 120 début septembre : chiffre d'affaires en hausse de 24% et EBITDA semestriel en progression de 18%, ce qui a conduit le groupe à relever sa fourchette d'EBITDA 2026 (désormais 775-825 M€). Le consensus analystes est majoritairement à l'achat ; point de vigilance : le titre reste sensible aux marges GPL/bitume et aux devises (hypothèse EUR/USD intégrée dans la guidance)."
+        },
+        {
+          "code": "GTT",
+          "valeur": "Gaztransport & Technigaz",
+          "tendance": "haussière, carnet de commandes solide",
+          "score": 4,
+          "commentaire": "GTT enchaîne les commandes de conception de cuves pour méthaniers (Samsung Heavy Industries, chantiers Jiangnan et HD KSOE), avec un dividende en forte progression (8,94€ pour 2026 contre 7,83€ en 2025) et une hausse de près de 30% sur un an. Point de vigilance : la valorisation n'est plus vraiment bon marché après cette hausse, et l'activité dépend du cycle des commandes de méthaniers dans le monde."
+        },
+        {
+          "code": "LAT",
+          "valeur": "Latecoere",
+          "tendance": "penny stock, redressement amorcé",
+          "score": 2,
+          "commentaire": "Latécoère a publié des résultats annuels 2025 en nette amélioration (EBITDA courant à 39,4 M€ contre 25,7 M€ un an plus tôt, cash-flow redevenu positif) et a été sélectionné pour le programme d'avion-cargo géant WindRunner, ce qui a fait bondir le titre de près de 7%. Point de vigilance majeur : il s'agit d'une action à quelques centimes, historiquement très diluée (le titre reste à environ -99% sur 3 ans), donc à réserver à un profil de risque élevé."
+        },
+        {
+          "code": "MTU",
+          "valeur": "Manitou",
+          "tendance": "haussière, guidance relevée",
+          "score": 4,
+          "commentaire": "Manitou a nettement redressé la barre après avoir suspendu ses objectifs 2026 en mars : les résultats semestriels, supérieurs aux attentes, ont permis au groupe de relever ses perspectives annuelles, avec une croissance de 15,6% au T2 tirée par l'Europe et un carnet de commandes représentant environ six mois d'activité. Point de vigilance : le secteur des matériels de manutention reste cyclique et sensible au contexte macroéconomique, comme l'a rappelé l'alerte de mars."
+        }
+      ]
+    }
+  }
+}
