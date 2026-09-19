@@ -1,5 +1,148 @@
 {
   "blocs": {
+    "Valeurs sélectionnées": {
+      "date": "18/09/2026",
+      "items": [
+        {
+          "code": "EXENS",
+          "valeur": "Exosens",
+          "tendance": "forte hausse, guidance relevée 2x",
+          "score": 5,
+          "commentaire": "Exosens signe la meilleure performance du SBF 120 ce jeudi (+10,6% à environ 59-60€) après avoir relevé pour la deuxième fois en 2026 ses objectifs annuels (chiffre d'affaires visé entre 558 et 570 M€, soit +20% sur un an), porté par une montée en cadence de production plus rapide que prévu. Plusieurs bureaux d'études (TP ICAP Midcap, Bernstein) relèvent leur objectif de cours ; point de vigilance : la valorisation a déjà beaucoup progressé après ce bond, dans un secteur défense/nucléaire par nature cyclique."
+        },
+        {
+          "code": "DEC",
+          "valeur": "JCDecaux",
+          "tendance": "haussière",
+          "score": 4,
+          "commentaire": "JCDecaux évolue tout près de son plus haut annuel (25,04€), avec une progression de près de 60% sur un an, un programme de rachat d'actions en cours et un nouveau contrat publicitaire remporté en Allemagne. Le dividende reste modeste (rendement autour de 2,75%) ; point de vigilance : le titre a déjà beaucoup couru, ce qui laisse une marge de sécurité réduite en cas de déception."
+        },
+        {
+          "code": "MAU",
+          "valeur": "Maurel & Prom",
+          "tendance": "résultats solides, cours hésitant",
+          "score": 3,
+          "commentaire": "Maurel & Prom a publié des résultats semestriels 2026 très solides (EBITDA +63%, résultat net +78%), portés par la hausse des prix du pétrole et une production stable, ce qui lui a valu une entrée au SBF 120. Le cours a pourtant reculé début septembre malgré ces bons chiffres ; point de vigilance : la valeur reste très dépendante du cours du Brent et de l'exposition géopolitique de certains actifs (Venezuela, Colombie)."
+        },
+        {
+          "code": "COFA",
+          "valeur": "Coface",
+          "tendance": "spéculative, rumeur de rachat",
+          "score": 3,
+          "commentaire": "Coface bondit de près de 9% ce vendredi sur une rumeur Bloomberg selon laquelle CNP Assurances (Banque Postale) étudierait une offre sur le groupe. Le dividende reste généreux (rendement proche de 7-8%) mais le résultat net du premier semestre est en repli de 13%. Point de vigilance : il s'agit d'une rumeur non confirmée à ce stade, donc d'un mouvement spéculatif qui peut se dégonfler aussi vite qu'il est apparu."
+        },
+        {
+          "code": "FNAC",
+          "valeur": "Fnac Darty",
+          "tendance": "stable",
+          "score": 3,
+          "commentaire": "Fnac Darty évolue de façon très calme autour de 34,5€, en hausse de 19% sur un an mais quasiment plate depuis cet été. L'objectif de cours consensus (environ 37€) laisse un potentiel modéré. Point de vigilance : le secteur du commerce spécialisé reste sous pression structurelle (concurrence en ligne), et le titre est peu liquide."
+        },
+        {
+          "code": "ATEME",
+          "valeur": "Ateme",
+          "tendance": "forte croissance, surachat",
+          "score": 3,
+          "commentaire": "Ateme affiche une dynamique commerciale remarquable avec une croissance de 29% de son chiffre d'affaires au 2e trimestre 2026 et un référencement par Apple lors de la WWDC26. La tendance technique est très haussière, mais le RSI élevé signale une zone de surachat : les prochaines publications seront à surveiller pour confirmer la trajectoire."
+        },
+        {
+          "code": "ARAMI",
+          "valeur": "Aramis Group",
+          "tendance": "très volatile, rumeur de cession",
+          "score": 2,
+          "commentaire": "Aramis Group bondit de plus de 15% sur deux séances (17 et 18 septembre) sur fond de rumeurs selon lesquelles Stellantis, actionnaire historique, pourrait céder sa participation. Le titre reste toutefois en baisse de 20% sur un an, après un abaissement des objectifs 2026 en mai et un repli du chiffre d'affaires au T3 (-5,4%). Point de vigilance : mouvement très spéculatif sur une rumeur non confirmée, dans un dossier aux fondamentaux encore fragiles."
+        },
+        {
+          "code": "SFPI",
+          "valeur": "Groupe SFPI",
+          "tendance": "value, tendance baissière long terme",
+          "score": 2,
+          "commentaire": "Groupe SFPI se traite à une valorisation faible (PER estimé autour de 7,4x, rendement de dividende proche de 4,8%), mais le titre reste en baisse de près de 22% sur un an, dans un contexte de changements à la direction générale (départ puis nomination d'un nouveau DG délégué en 2026). Point de vigilance : petite capitalisation peu liquide, la décote ne s'est pas encore traduite par un retournement de tendance."
+        },
+        {
+          "code": "GAM",
+          "valeur": "Gaumont",
+          "tendance": "offre de retrait en cours",
+          "score": 2,
+          "commentaire": "Gaumont fait l'objet d'une offre publique de retrait (OPR) initiée par la famille Seydoux via Ciné Par, dont le prix a été relevé à 100€ par action ; le cours (autour de 99€) colle déjà à ce niveau. Point de vigilance : il s'agit d'une situation spéciale de sortie de cote plutôt que d'un pari de momentum classique, avec un potentiel de hausse résiduel très limité et une liquidité qui va se réduire."
+        },
+        {
+          "code": "LIN",
+          "valeur": "Linedata",
+          "tendance": "baissière, fondamentaux fragiles",
+          "score": 2,
+          "commentaire": "Linedata reste pénalisé par un chiffre d'affaires en recul (-4,8% au 1er semestre 2026, après -8,5% au T1), dans un contexte encore marqué par les suites d'une cyberattaque l'été dernier. Le dividende reste généreux (rendement proche de 4,6%) mais la tendance des revenus est le principal point de vigilance : la présence de la valeur dans ce bloc tient davantage à un sursaut de volumes récent qu'à une amélioration de fond confirmée."
+        }
+      ]
+    },
+    "Les valeurs qui montent": {
+      "date": "12/09/2026",
+      "items": [
+        {
+          "code": "VMX",
+          "valeur": "Verimatrix",
+          "tendance": "redressement, très volatile",
+          "score": 3,
+          "commentaire": "Verimatrix profite de son recentrage sur l'antipiratage, avec une perte nette réduite au 1er semestre 2026 et un accord de refinancement de sa dette qui soulage ses finances. Le titre a plus que doublé depuis janvier, mais le consensus des analystes (2 avis) affiche un objectif de cours proche du niveau actuel : la valorisation intègre déjà une bonne partie du redressement. À surveiller : petite capitalisation, forte volatilité au quotidien."
+        },
+        {
+          "code": "OVH",
+          "valeur": "OVH Groupe",
+          "tendance": "haussière, actualité RH sensible",
+          "score": 3,
+          "commentaire": "OVHcloud affiche une progression de plus de 90% depuis le 1er janvier et un consensus analystes majoritairement à l'achat avec un objectif de cours supérieur de 20% au cours actuel. Le titre reste toutefois nerveux : il a chuté de 8% fin août après le départ surprise de sa directrice financière, un point de vigilance sur la gouvernance à court terme, dans un secteur cloud très capitalistique."
+        },
+        {
+          "code": "TTE",
+          "valeur": "TotalEnergies",
+          "tendance": "stable, dividende",
+          "score": 3,
+          "commentaire": "TotalEnergies conserve un profil défensif avec un PER estimé autour de 8x, jugé attractif par plusieurs analystes, et un dividende trimestriel régulier (prochain détachement dans une vingtaine de jours). Le groupe continue d'annoncer des découvertes et accords (Angola, Namibie), mais Goldman Sachs reste neutre sur le titre et le secteur demeure exposé aux variations du prix du pétrole."
+        },
+        {
+          "code": "BAIN",
+          "valeur": "Bains de Mer de Monaco",
+          "tendance": "haussière, résultats records",
+          "score": 4,
+          "commentaire": "La Société des Bains de Mer a publié un résultat net record de 112,9 M€ sur son dernier exercice, porté par la vigueur de son activité de jeux, et vient d'annoncer un dividende annuel. Le titre a doublé de valeur en cinq ans selon la presse spécialisée ; point de vigilance : la valeur reste peu liquide (faible flottant) et déjà valorisée avec un PER élevé (>20x)."
+        },
+        {
+          "code": "EXA",
+          "valeur": "Exail Technologies",
+          "tendance": "forte hausse, valorisation tendue",
+          "score": 3,
+          "commentaire": "Exail Technologies (défense et technologies sous-marines) a bondi de plus de 50% depuis janvier et vient d'intégrer le SBF 120. Le PER estimé 2026 ressort néanmoins très élevé (autour de 84x), ce qui traduit des attentes de croissance fortes déjà intégrées dans le cours. Les résultats semestriels attendus à la mi-septembre 2026 seront un catalyseur clé à surveiller."
+        },
+        {
+          "code": "RUI",
+          "valeur": "Rubis",
+          "tendance": "forte hausse, guidance relevée",
+          "score": 5,
+          "commentaire": "Rubis a signé la meilleure publication du SBF 120 début septembre : chiffre d'affaires en hausse de 24% et EBITDA semestriel en progression de 18%, ce qui a conduit le groupe à relever sa fourchette d'EBITDA 2026 (désormais 775-825 M€). Le consensus analystes est majoritairement à l'achat ; point de vigilance : le titre reste sensible aux marges GPL/bitume et aux devises (hypothèse EUR/USD intégrée dans la guidance)."
+        },
+        {
+          "code": "GTT",
+          "valeur": "Gaztransport & Technigaz",
+          "tendance": "haussière, carnet de commandes solide",
+          "score": 4,
+          "commentaire": "GTT enchaîne les commandes de conception de cuves pour méthaniers (Samsung Heavy Industries, chantiers Jiangnan et HD KSOE), avec un dividende en forte progression (8,94€ pour 2026 contre 7,83€ en 2025) et une hausse de près de 30% sur un an. Point de vigilance : la valorisation n'est plus vraiment bon marché après cette hausse, et l'activité dépend du cycle des commandes de méthaniers dans le monde."
+        },
+        {
+          "code": "LAT",
+          "valeur": "Latecoere",
+          "tendance": "penny stock, redressement amorcé",
+          "score": 2,
+          "commentaire": "Latécoère a publié des résultats annuels 2025 en nette amélioration (EBITDA courant à 39,4 M€ contre 25,7 M€ un an plus tôt, cash-flow redevenu positif) et a été sélectionné pour le programme d'avion-cargo géant WindRunner, ce qui a fait bondir le titre de près de 7%. Point de vigilance majeur : il s'agit d'une action à quelques centimes, historiquement très diluée (le titre reste à environ -99% sur 3 ans), donc à réserver à un profil de risque élevé."
+        },
+        {
+          "code": "MTU",
+          "valeur": "Manitou",
+          "tendance": "haussière, guidance relevée",
+          "score": 4,
+          "commentaire": "Manitou a nettement redressé la barre après avoir suspendu ses objectifs 2026 en mars : les résultats semestriels, supérieurs aux attentes, ont permis au groupe de relever ses perspectives annuelles, avec une croissance de 15,6% au T2 tirée par l'Europe et un carnet de commandes représentant environ six mois d'activité. Point de vigilance : le secteur des matériels de manutention reste cyclique et sensible au contexte macroéconomique, comme l'a rappelé l'alerte de mars."
+        }
+      ]
+    },
     "Etoiles": {
       "date": "05/09/2026",
       "items": [
@@ -65,81 +208,6 @@
           "tendance": "haussière",
           "score": 4,
           "commentaire": "Accor progresse nettement début septembre, soutenu par un programme de rachat d'actions actif (nouvelle tranche de 225 millions d'euros) et la cession de sa participation dans Essendi (ex-AccorInvest) à Blackstone. Le premier semestre 2026 reste toutefois contrasté, avec un chiffre d'affaires stable mais des bénéfices en recul, en partie pénalisés par le conflit au Moyen-Orient."
-        }
-      ]
-    },
-    "Les valeurs qui montent": {
-      "date": "12/09/2026",
-      "items": [
-        {
-          "code": "VMX",
-          "valeur": "Verimatrix",
-          "tendance": "redressement, très volatile",
-          "score": 3,
-          "commentaire": "Verimatrix profite de son recentrage sur l'antipiratage, avec une perte nette réduite au 1er semestre 2026 et un accord de refinancement de sa dette qui soulage ses finances. Le titre a plus que doublé depuis janvier, mais le consensus des analystes (2 avis) affiche un objectif de cours proche du niveau actuel : la valorisation intègre déjà une bonne partie du redressement. À surveiller : petite capitalisation, forte volatilité au quotidien."
-        },
-        {
-          "code": "OVH",
-          "valeur": "OVH Groupe",
-          "tendance": "haussière, actualité RH sensible",
-          "score": 3,
-          "commentaire": "OVHcloud affiche une progression de plus de 90% depuis le 1er janvier et un consensus analystes majoritairement à l'achat avec un objectif de cours supérieur de 20% au cours actuel. Le titre reste toutefois nerveux : il a chuté de 8% fin août après le départ surprise de sa directrice financière, un point de vigilance sur la gouvernance à court terme, dans un secteur cloud très capitalistique."
-        },
-        {
-          "code": "TTE",
-          "valeur": "TotalEnergies",
-          "tendance": "stable, dividende",
-          "score": 3,
-          "commentaire": "TotalEnergies conserve un profil défensif avec un PER estimé autour de 8x, jugé attractif par plusieurs analystes, et un dividende trimestriel régulier (prochain détachement dans une vingtaine de jours). Le groupe continue d'annoncer des découvertes et accords (Angola, Namibie), mais Goldman Sachs reste neutre sur le titre et le secteur demeure exposé aux variations du prix du pétrole."
-        },
-        {
-          "code": "BAIN",
-          "valeur": "Bains de Mer de Monaco",
-          "tendance": "haussière, résultats records",
-          "score": 4,
-          "commentaire": "La Société des Bains de Mer a publié un résultat net record de 112,9 M€ sur son dernier exercice, porté par la vigueur de son activité de jeux, et vient d'annoncer un dividende annuel. Le titre a doublé de valeur en cinq ans selon la presse spécialisée ; point de vigilance : la valeur reste peu liquide (faible flottant) et déjà valorisée avec un PER élevé (>20x)."
-        },
-        {
-          "code": "EXA",
-          "valeur": "Exail Technologies",
-          "tendance": "forte hausse, valorisation tendue",
-          "score": 3,
-          "commentaire": "Exail Technologies (défense et technologies sous-marines) a bondi de plus de 50% depuis janvier et vient d'intégrer le SBF 120. Le PER estimé 2026 ressort néanmoins très élevé (autour de 84x), ce qui traduit des attentes de croissance fortes déjà intégrées dans le cours. Les résultats semestriels attendus à la mi-septembre 2026 seront un catalyseur clé à surveiller."
-        },
-        {
-          "code": "LIN",
-          "valeur": "Linedata",
-          "tendance": "baissière, fondamentaux fragiles",
-          "score": 2,
-          "commentaire": "Linedata reste pénalisé par un chiffre d'affaires en recul (-4,8% au 1er semestre 2026, après -8,5% au T1), dans un contexte encore marqué par les suites d'une cyberattaque l'été dernier. Le dividende reste généreux (rendement proche de 4,6%) mais la tendance des revenus est le principal point de vigilance : la présence de la valeur dans ce bloc tient davantage à un sursaut de volumes récent qu'à une amélioration de fond confirmée."
-        },
-        {
-          "code": "RUI",
-          "valeur": "Rubis",
-          "tendance": "forte hausse, guidance relevée",
-          "score": 5,
-          "commentaire": "Rubis a signé la meilleure publication du SBF 120 début septembre : chiffre d'affaires en hausse de 24% et EBITDA semestriel en progression de 18%, ce qui a conduit le groupe à relever sa fourchette d'EBITDA 2026 (désormais 775-825 M€). Le consensus analystes est majoritairement à l'achat ; point de vigilance : le titre reste sensible aux marges GPL/bitume et aux devises (hypothèse EUR/USD intégrée dans la guidance)."
-        },
-        {
-          "code": "GTT",
-          "valeur": "Gaztransport & Technigaz",
-          "tendance": "haussière, carnet de commandes solide",
-          "score": 4,
-          "commentaire": "GTT enchaîne les commandes de conception de cuves pour méthaniers (Samsung Heavy Industries, chantiers Jiangnan et HD KSOE), avec un dividende en forte progression (8,94€ pour 2026 contre 7,83€ en 2025) et une hausse de près de 30% sur un an. Point de vigilance : la valorisation n'est plus vraiment bon marché après cette hausse, et l'activité dépend du cycle des commandes de méthaniers dans le monde."
-        },
-        {
-          "code": "LAT",
-          "valeur": "Latecoere",
-          "tendance": "penny stock, redressement amorcé",
-          "score": 2,
-          "commentaire": "Latécoère a publié des résultats annuels 2025 en nette amélioration (EBITDA courant à 39,4 M€ contre 25,7 M€ un an plus tôt, cash-flow redevenu positif) et a été sélectionné pour le programme d'avion-cargo géant WindRunner, ce qui a fait bondir le titre de près de 7%. Point de vigilance majeur : il s'agit d'une action à quelques centimes, historiquement très diluée (le titre reste à environ -99% sur 3 ans), donc à réserver à un profil de risque élevé."
-        },
-        {
-          "code": "MTU",
-          "valeur": "Manitou",
-          "tendance": "haussière, guidance relevée",
-          "score": 4,
-          "commentaire": "Manitou a nettement redressé la barre après avoir suspendu ses objectifs 2026 en mars : les résultats semestriels, supérieurs aux attentes, ont permis au groupe de relever ses perspectives annuelles, avec une croissance de 15,6% au T2 tirée par l'Europe et un carnet de commandes représentant environ six mois d'activité. Point de vigilance : le secteur des matériels de manutention reste cyclique et sensible au contexte macroéconomique, comme l'a rappelé l'alerte de mars."
         }
       ]
     }
