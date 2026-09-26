@@ -1,5 +1,80 @@
 {
   "blocs": {
+    "Les valeurs qui montent": {
+      "date": "25/09/2026",
+      "items": [
+        {
+          "code": "STMPA",
+          "valeur": "STMicroelectronics",
+          "tendance": "volatile, soutien analystes",
+          "score": 3,
+          "commentaire": "STMicroelectronics reste chahuté par la nervosité récente sur les 'valeurs IA' (chute de plus de 6% le 14 septembre après des appels du secteur à ralentir les investissements data centers), mais le consensus des analystes reste très positif avec un objectif de cours à 56,96€, soit un potentiel de plus de 26% par rapport au cours actuel. Point de vigilance : le titre reste très sensible aux annonces macro liées à l'IA et aux semi-conducteurs, avec des mouvements de plusieurs pourcents en une séance."
+        },
+        {
+          "code": "BIM",
+          "valeur": "bioMérieux",
+          "tendance": "rebond technique",
+          "score": 3,
+          "commentaire": "bioMérieux rebondit nettement ces derniers jours (+8% sur une semaine, +3% le 24 septembre), après une année 2026 marquée par un abaissement de ses objectifs 2026 en avril et une révision à la baisse de ses ambitions moyen terme lors des résultats semestriels, jugée décevante par le marché. Point de vigilance : le titre reste en repli de 30% sur un an, ce rebond récent reste donc à confirmer sur la durée."
+        },
+        {
+          "code": "DEC",
+          "valeur": "JCDecaux",
+          "tendance": "haussière",
+          "score": 4,
+          "commentaire": "JCDecaux évolue tout près de son plus haut annuel (autour de 25€), avec une progression de près de 60% sur un an, un programme de rachat d'actions en cours et un nouveau contrat publicitaire remporté en Allemagne. Point de vigilance : le titre a déjà beaucoup couru, ce qui laisse une marge de sécurité réduite en cas de déception."
+        },
+        {
+          "code": "BAIN",
+          "valeur": "Bains de Mer de Monaco",
+          "tendance": "haussière, résultats records",
+          "score": 4,
+          "commentaire": "La Société des Bains de Mer poursuit sa progression (cours autour de 144€), portée par un résultat net record de 112,9 M€ sur son dernier exercice et l'annonce d'un dividende annuel. Point de vigilance : la valeur reste peu liquide (faible flottant) et déjà valorisée avec un PER élevé."
+        },
+        {
+          "code": "ATE",
+          "valeur": "Alten",
+          "tendance": "forte hausse, guidance relevée 2x",
+          "score": 4,
+          "commentaire": "Alten a bondi de plus de 13% sur la semaine et efface quasiment ses pertes annuelles, après avoir relevé pour la deuxième fois ses objectifs 2026 (croissance organique visée entre 1,7% et 1,9%) à la suite de résultats semestriels en forte progression. Kepler Cheuvreux réitère son avis achat avec un objectif de cours de 125€ ; point de vigilance : le relèvement de guidance reste jugé modeste par certains analystes au regard de l'avance prise au premier semestre."
+        },
+        {
+          "code": "EXENS",
+          "valeur": "Exosens",
+          "tendance": "forte hausse, guidance relevée 2x",
+          "score": 5,
+          "commentaire": "Exosens continue d'afficher la meilleure dynamique du SBF 120 après avoir relevé pour la deuxième fois en 2026 ses objectifs annuels (chiffre d'affaires visé entre 558 et 570 M€, +20% sur un an). Point de vigilance : la valorisation a déjà beaucoup progressé après ce bond, dans un secteur défense/nucléaire par nature cyclique."
+        },
+        {
+          "code": "XFAB",
+          "valeur": "X-FAB Silicon Foundries",
+          "tendance": "extrêmement volatile",
+          "score": 2,
+          "commentaire": "X-FAB reste l'une des valeurs les plus erratiques de la cote française, ayant bondi de 76% en intraday en mai sur une simple publication sur les réseaux sociaux avant de largement redescendre (le cours a été divisé par plus de deux depuis ce pic à 15,88€). Le groupe confirme ses objectifs financiers (CA visé à environ 1,05 Md$ en 2026) et bénéficie de la montée en puissance de l'électrification, mais reste pénalisé par la faiblesse du marché automobile. Point de vigilance majeur : mouvements de cours totalement déconnectés des fondamentaux à court terme."
+        },
+        {
+          "code": "SW",
+          "valeur": "Sodexo",
+          "tendance": "haussière, relèvement analyste",
+          "score": 4,
+          "commentaire": "Sodexo a bondi de plus de 4% le 17 septembre après un relèvement de recommandation de JPMorgan (de 'neutre' à 'surpondérer', objectif de cours à 68€, contre environ 57-59€ actuellement), saluant l'amélioration de la dynamique commerciale du groupe. Les indicateurs techniques restent orientés à la hausse (MACD positif, RSI non suracheté). Point de vigilance : l'exercice 2027 est présenté par les analystes comme la période clé pour juger de la confirmation de ce redressement."
+        },
+        {
+          "code": "EC",
+          "valeur": "Total Gabon",
+          "tendance": "stable",
+          "score": 3,
+          "commentaire": "TotalEnergies EP Gabon a plus que doublé son résultat net semestriel (+132% sur un an) grâce à un environnement de prix pétroliers favorable, et le cours évolue de façon stable autour de 220-226€. Point de vigilance : le consensus analystes affiche un objectif légèrement inférieur au cours actuel, et le titre reste par nature dépendant du cours du baril et du contexte gabonais."
+        },
+        {
+          "code": "GET",
+          "valeur": "Getlink",
+          "tendance": "stable, dividende en hausse",
+          "score": 3,
+          "commentaire": "Getlink a relevé son objectif d'EBITDA 2026 après un premier semestre porté par la dynamique de LeShuttle Passagers, et le groupe se dit protégé du risque de remise en cause de ses concessions. Le cours reste stable autour de 18,5€, avec un dividende en forte progression sur longue période. Point de vigilance : le trafic fret (LeShuttle Freight) montre des signes de fragilité (trafic passagers en repli de 5% sur un an sur certains mois)."
+        }
+      ]
+    },
     "Valeurs sélectionnées": {
       "date": "18/09/2026",
       "items": [
@@ -75,7 +150,7 @@
         }
       ]
     },
-    "Les valeurs qui montent": {
+    "Les valeurs qui montent (12/09)": {
       "date": "12/09/2026",
       "items": [
         {
