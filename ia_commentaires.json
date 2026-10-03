@@ -1,6 +1,81 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "03/10/2026",
+      "items": [
+        {
+          "code": "SOI",
+          "valeur": "Soitec",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Le titre reste dans une dynamique haussière forte après une envolée de plus de 260% en trois mois, portée par l'ambition de Soitec de tripler son chiffre d'affaires d'ici 2026 grâce au SOI pour les semi-conducteurs. Un repli ponctuel de l'ordre de 7% a déjà été observé après cette envolée, signe que la valeur reste très volatile. À surveiller : prises de bénéfices possibles après une hausse aussi rapide."
+        },
+        {
+          "code": "STMPA",
+          "valeur": "STMicroelectronics",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "STMicroelectronics a relevé ses perspectives, mais le marché a réagi de façon erratique, avec une chute ponctuelle de 14% malgré ces annonces plus favorables. Le titre profite du courant volumes/semi-conducteurs du bloc, mais reste exposé à la cyclicité du secteur et à la nervosité des investisseurs sur les valorisations tech. À surveiller : la cohérence entre les prochains trimestres et le discours optimiste du management."
+        },
+        {
+          "code": "MRN",
+          "valeur": "Mersen",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Mersen a relevé ses objectifs financiers 2026 après un chiffre d'affaires supérieur aux attentes, ce qui a permis au titre de rebondir et de signer l'une des meilleures performances du SBF 120. La dynamique opérationnelle semble se confirmer sur les marchés des matériaux avancés et de l'électrification. Point de vigilance : la valeur reste sensible aux variations de marge évoquées lors des publications précédentes."
+        },
+        {
+          "code": "XFAB",
+          "valeur": "X-FAB Silicon Foundries",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "X-FAB poursuit l'extension de ses capacités de production (notamment en technologie 180nm à Sarawak et en France), ce qui soutient sa présence dans ce bloc de valeurs à volumes. Le secteur des fonderies de semi-conducteurs européennes reste toutefois concurrentiel, avec des annonces capacitaires concurrentes (comme la nouvelle fab d'Infineon à Dresde). À surveiller : le rythme de montée en charge de ces nouvelles capacités et leur impact sur les marges."
+        },
+        {
+          "code": "LIN",
+          "valeur": "Linedata Services",
+          "tendance": "Baisse",
+          "score": 2,
+          "commentaire": "Linedata a publié des résultats semestriels 2026 en recul, ce qui contraste avec sa présence dans ce bloc porté par les volumes. La prudence est de mise tant que les fondamentaux ne confirment pas une amélioration. Point de vigilance : la valeur mérite d'être suivie de près pour confirmer si la présence dans ce bloc reflète un signal technique ou un véritable retournement."
+        },
+        {
+          "code": "SU",
+          "valeur": "Schneider Electric",
+          "tendance": "Hausse",
+          "score": 5,
+          "commentaire": "Schneider Electric a bondi en bourse après avoir relevé ses objectifs pour 2026, porté par la demande liée aux centres de données et à l'électrification. Le titre confirme son statut de valeur phare du secteur avec une dynamique commerciale solide. Point de vigilance : la valorisation déjà élevée du titre limite la marge de sécurité en cas de déception future."
+        },
+        {
+          "code": "EXE",
+          "valeur": "Exel Industries",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Exel Industries (pulvérisation agricole et industrielle) ne publie pas d'actualité majeure récente, avec simplement une visioconférence destinée aux investisseurs particuliers. Le titre évolue dans un bloc technique porté par les volumes plutôt que par un catalyseur fondamental identifié. À surveiller : l'absence de visibilité claire incite à la prudence sur l'horizon court terme."
+        },
+        {
+          "code": "LR",
+          "valeur": "Legrand",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Legrand a de nouveau relevé ses objectifs de croissance pour 2026, porté par le boom des centres de données et des résultats semestriels supérieurs aux attentes. La dynamique est similaire à celle de Schneider Electric, sur la même thématique porteuse de l'électrification et du numérique. Point de vigilance : le titre a déjà bien progressé, donc les attentes du marché sont désormais élevées."
+        },
+        {
+          "code": "CO",
+          "valeur": "Casino Guichard-Perrachon",
+          "tendance": "Baisse",
+          "score": 1,
+          "commentaire": "Casino reste une valeur très spéculative après sa restructuration financière (changement d'ISIN, dilution massive des actionnaires historiques), avec un cours proche de zéro (0,186€). Sa présence dans ce bloc tient davantage à des volumes d'échanges techniques qu'à une amélioration des fondamentaux du groupe. Point de vigilance majeur : risque de nouvelle dilution ou de restructuration supplémentaire, à réserver aux profils très spéculatifs."
+        },
+        {
+          "code": "EC",
+          "valeur": "TotalEnergies EP Gabon (ex-Total Gabon)",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "La valeur a versé un dividende exceptionnel offrant un rendement supérieur à 30%, ce qui a dopé l'intérêt pour le titre et explique sa présence dans ce bloc. Il s'agit cependant d'une petite capitalisation pétrolière très dépendante de sa maison-mère TotalEnergies et de la conjoncture gabonaise. Point de vigilance : un rendement aussi exceptionnel n'est pas nécessairement reconductible chaque année."
+        }
+      ]
+    },
+    "Les valeurs qui montent (25/09)": {
       "date": "25/09/2026",
       "items": [
         {
