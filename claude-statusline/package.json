@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-statusline",
+  "version": "1.0.0",
+  "description": "Cross-platform status line for Claude Code: model, effort, context, cost, git, rate limits.",
+  "license": "MIT",
+  "bin": { "claude-code-statusline": "install.mjs" },
+  "files": ["statusline.js", "install.mjs", "uninstall.mjs", "test.mjs", "install.sh", "install.ps1"],
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "preview": "node test.mjs",
+    "install-statusline": "node install.mjs",
+    "uninstall-statusline": "node uninstall.mjs"
+  }
+}
