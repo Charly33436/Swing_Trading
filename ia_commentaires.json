@@ -1,5 +1,80 @@
 {
   "blocs": {
+    "Etoiles": {
+      "date": "10/10/2026",
+      "items": [
+        {
+          "code": "DIM",
+          "valeur": "Sartorius Stedim Biotech",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Sartorius Stedim Biotech a publié le 23 juillet un S1 solide : chiffre d'affaires de 1 527 M€ (+6,4 % à change constant), EBITDA courant de 479 M€ (marge de 31,4 %) et résultat net de 181 M€ (+17,6 %), avec des prévisions 2026 confirmées (croissance de 6 à 10 %, marge d'EBITDA légèrement supérieure à 31 %). Les consommables récurrents tirent l'activité et le levier d'endettement recule à 2,36x l'EBITDA, ce qui est cohérent avec sa place dans le bloc Etoiles. À surveiller : la compensation des droits de douane américains pourrait ramener la croissance dans la moitié basse de la fourchette, et les Amériques stagnent (+0,8 %)."
+        },
+        {
+          "code": "QDT",
+          "valeur": "Quadient",
+          "tendance": "Baisse",
+          "score": 2,
+          "commentaire": "Le 23 septembre, Quadient a annoncé la cession de son activité Lockers (réseau britannique d'environ 3 000 consignes cédé pour 65 M€ de valeur d'entreprise) pour se recentrer sur le Digital, et a abaissé ses objectifs 2026 : croissance organique de -3 à +1 % et marge d'EBITDA Digital supérieure à 19 % (contre 20 %). Le recentrage et un free cash-flow de 34 M€ au S1 (contre -4 M€) ne compensent pas encore un CA semestriel en baisse de 2 % en organique, un EBITDA de 96 M€ (-7,1 %) et un résultat net de 9 M€ contre 20 M€, ce qui rend sa présence dans le bloc Etoiles à nuancer. À surveiller : l'exécution de la cession (clôture attendue d'ici fin 2026) et la capacité à rétablir les marges du Digital."
+        },
+        {
+          "code": "LIN",
+          "valeur": "Linedata Services",
+          "tendance": "Baisse",
+          "score": 2,
+          "commentaire": "Linedata a publié le 9 septembre un S1 en recul : chiffre d'affaires de 82,4 M€ (-1,3 % à périmètre comparable), résultat opérationnel de 10,4 M€ (-15,3 %) et résultat net de 7,5 M€, avec des séquelles de l'incident cyber d'août 2025. Des signes de reprise apparaissent toutefois (croissance organique de +0,5 % au T2, revenus récurrents à 80,2 % du CA, prises de commandes en hausse de 23,4 %), ce qui peut expliquer son maintien dans le bloc. À surveiller : la reprise reste très ténue et le groupe doit encore confirmer la consolidation de la croissance au S2."
+        },
+        {
+          "code": "BAIN",
+          "valeur": "Bains de Mer de Monaco",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Monte-Carlo SBM a publié un chiffre d'affaires de 271,3 M€ (+11 %) pour le T1 2026/2027, avec des hôtels à un record de 165,9 M€, des jeux en hausse de 16 % et le locatif à +6 %, après un exercice 2025/2026 clos sur un CA de 861,6 M€ (+12 %) et un résultat opérationnel de 86,6 M€ (+16 %). L'activité hôtelière et de restauration reste très soutenue, y compris pendant le Grand Prix de F1, ce qui est cohérent avec sa place dans le bloc. À surveiller : l'absence de prévision annuelle, une hausse des jeux en partie liée à un aléa favorable, une trésorerie nette en recul (158,8 M€ contre 186,3 M€) et des investissements lourds (176,8 M€)."
+        },
+        {
+          "code": "EC",
+          "valeur": "TotalEnergies EP Gabon (ex-Total Gabon)",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "TotalEnergies EP Gabon a publié fin août un résultat net de 51 M$ au S1 (contre 22 M$), mais le T2 chute à 6 M$ (-87 % par rapport au T1) à cause d'un effet de variation de stocks d'environ -69 M$, malgré un Brent à 103,8 $ et une production de 15 kb/j (-7 % par rapport au T1). Le dividende de 22,22 $ par action versé le 9 juin (environ 18,88 €, soit près de 8 % du cours actuel) et un cash-flow d'exploitation rebondi à 50 M$ au T2 soutiennent le dossier. À surveiller : la forte dépendance au prix du brut, une production en baisse et un résultat très volatil d'un trimestre à l'autre."
+        },
+        {
+          "code": "ITP",
+          "valeur": "Inter Parfums",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Inter Parfums a publié le 9 septembre un résultat opérationnel de 87,3 M€ (-16 %) et un résultat net de 65,5 M€ (-10 %), tous deux au-dessus des attentes, avec une marge de 21,1 % supérieure à la cible de 19-20 %, grâce en partie au remboursement non anticipé de droits de douane américains. Oddo BHF juge que le point bas est passé, avec une dette nette ramenée à 3,2 M€ et plus de 37 M€ de rachats d'actions par la maison mère, ce qui est cohérent avec sa place dans le bloc. À surveiller : un CA semestriel en recul de 7 % (414,3 M€), l'objectif annuel de 850 à 870 M€ de CA et la visibilité 2027-2028 attendue au Capital Markets Day de novembre."
+        },
+        {
+          "code": "VETO",
+          "valeur": "Vetoquinol",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Vetoquinol a renoué avec la croissance au S1 (+3,4 % à changes constants, T2 à environ +7 % en organique selon Stifel), avec une marge brute de 77,1 %, un résultat net de 30,5 M€ (+21,8 %) et une trésorerie nette de 223 M€ ; le titre a bondi d'environ 17 % le 11 septembre, jusqu'à 77,6 €. Le dossier s'appuie sur une décote d'environ 50 % face à ses pairs selon Stifel, ce qui est cohérent avec sa place dans le bloc. À surveiller : l'absence de guidance, un redressement que Stifel juge trop tôt pour qualifier de structurel (croissance moyenne de 0,4 % sur 17 trimestres) et un effet calendaire favorable en Europe qui pourrait peser ensuite."
+        },
+        {
+          "code": "PLNW",
+          "valeur": "Planisware",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Planisware a publié le 30 juillet un S1 solide : chiffre d'affaires de 106,1 M€ (+14,8 % à change constant, +16,0 % au T2), EBITDA ajusté de 38,2 M€ (36,0 % du CA) et résultat net de 28,6 M€ (+32 %). Cette croissance à deux chiffres associée à une marge d'environ 36 %, en ligne avec la trajectoire annuelle, est cohérente avec sa place dans le bloc. À surveiller : un mix moins favorable (implémentation, recrutements), l'absence de relèvement chiffré des objectifs dans les éléments publiés et des craintes liées à l'IA qui ont déjà pesé sur le secteur logiciel."
+        },
+        {
+          "code": "TTE",
+          "valeur": "TotalEnergies",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "TotalEnergies a publié le 23 juillet un résultat net ajusté de 11,4 Md$ au S1 (+47 %), dont 6,0 Md$ au T2, avec un second acompte sur dividende de 0,90 € (+5,9 %), des rachats d'actions jusqu'à 1,5 Md$ au T3 et un gearing ramené à 13,1 %. Un pétrole resté au-dessus de 80 $ le baril soutient le dossier, ce qui est cohérent avec sa place dans le bloc. À surveiller : les tensions au Moyen-Orient (détroit d'Ormuz), qui ont coûté environ 210 000 bep/j de production, et la soutenabilité de prix du pétrole aussi élevés."
+        },
+        {
+          "code": "CAP",
+          "valeur": "Capgemini",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Capgemini a relevé le 30 juillet sa prévision 2026 à +8,5 / +9 % de croissance à taux constants, avec une marge opérationnelle de 13,6 à 13,8 % et un free cash-flow organique de 1,8 à 1,9 Md€ inchangés, portée par l'Amérique du Nord (+19,8 %) et le Royaume-Uni (+21,1 %) ; ses objectifs 2028 avaient été présentés fin mai. Cette dynamique est cohérente avec sa place dans le bloc. À surveiller : une dette nette de 6,5 Md€ après l'intégration de WNS, un résultat net en baisse de 31 % au S1, une France atone (marge de 7,7 %) et les craintes sur l'impact de l'IA sur les services informatiques."
+        }
+      ]
+    },
     "Les valeurs qui montent": {
       "date": "03/10/2026",
       "items": [
@@ -293,7 +368,7 @@
         }
       ]
     },
-    "Etoiles": {
+    "Etoiles (05/09)": {
       "date": "05/09/2026",
       "items": [
         {
