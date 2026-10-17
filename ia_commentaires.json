@@ -1,5 +1,80 @@
 {
   "blocs": {
+    "Les valeurs qui montent": {
+      "date": "17/10/2026",
+      "items": [
+        {
+          "code": "RCO",
+          "valeur": "Rémy Cointreau",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Rémy Cointreau (51,55 €, +4,6 % le 16/10) a pris environ 20 % depuis le 07/10 (autour de 43,10 €), porté par des notes d'analystes anticipant une accélération de la croissance organique au T2 (Jefferies ≈ +2,5 %, JPMorgan ≈ +3,3 % avec un cognac à +7,7 %) et un avis à l'achat d'Invest Securities le 12/10. Il est dans le bloc pour cette dynamique acheteuse sur gros volumes avant la publication du CA T2 le 28/10. À surveiller : le bon chiffre est en grande partie anticipé (risque de « sell the news »), la croissance attendue sur l'exercice reste faible (+0,6 à +1,1 %) et les résultats semestriels (25/11) doivent détailler les objectifs moyen terme."
+        },
+        {
+          "code": "DEC",
+          "valeur": "JCDecaux",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "JCDecaux a touché 25,64 € en séance le 15/10, un plus haut de 4 ans, après le passage à l'achat de Deutsche Bank (objectif 30 € contre 21 €) et la confirmation de CIC (29,50 €) ; le titre cumule environ +20 % sur le trimestre. Il est dans ce bloc grâce à cette dynamique haussière appuyée par des volumes et par un S1 solide (CA 1 799 M€, +4,6 %, digital à 42,8 %). À surveiller : le Moyen-Orient pèse (transport en recul à deux chiffres), la France recule de 1,9 % et la hausse rapide expose à des prises de bénéfices."
+        },
+        {
+          "code": "ETL",
+          "valeur": "Eutelsat",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Eutelsat rebondit fortement (1,766 € dans le fichier, contre 1,508 € la veille) après un plus bas historique de clôture à 1,37 € le 13/10 ; le titre a bondi le 14/10 sur des informations selon lesquelles Starlink aurait réduit ses services en Ukraine. Il est dans ce bloc pour ce rebond violent sur gros volumes, soutenu par les contrats IRIS² (plus de 5,4 Md€) et la montée en puissance de OneWeb (LEO ≈ 25 % du CA). À surveiller : le titre reste environ 60 % sous son sommet de mai (4,556 €), capex d'environ 1,2 Md€, concurrence de Starlink, consensus prudent (cible moyenne ≈ 2,0 à 2,3 €) ; CA T1 attendu le 29/10."
+        },
+        {
+          "code": "GLO",
+          "valeur": "GL events",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "GL events a bondi d'environ 24 % le 15/10 (jusqu'à 30,20 € en séance, 31,40 € dans le fichier) après un T3 record (CA 415,9 M€, +44,3 %) et le relèvement de sa croissance 2026 à plus de 10 % à périmètre et change constants. Il figure dans le bloc grâce à ce gap haussier sur gros volumes ; CIC maintient l'achat avec un objectif de 37 €. À surveiller : trimestre probablement exceptionnel (Live +25 % sur 9 mois), Exhibitions en recul de 19,3 %, et le cours teste la MM200 (≈31,2 €) avant une résistance vers 35,75 €."
+        },
+        {
+          "code": "SW",
+          "valeur": "Sodexo",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Sodexo (56,35 €) reste soutenue par le relèvement de JP Morgan du 17/09 (surpondérer, objectif 68 € contre 54 €), qui voit un point d'inflexion avec un exercice 2027 marquant le premier retournement des nouveaux développements ; le titre avait alors gagné environ 4 % vers 58-59 €. Il est dans le bloc grâce à cette dynamique de rattrapage sur gros volumes (aucune actualité spécifique trouvée pour le 16/10). À surveiller : l'exécution commerciale doit confirmer, le plan de suppression de 1 097 postes en France (août) rappelle la pression concurrentielle et le cours n'a pas retrouvé son niveau post-relèvement."
+        },
+        {
+          "code": "ENX",
+          "valeur": "Euronext",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Euronext (167,20 €) dépasse le plus haut sur 52 semaines de 166,20 € relevé fin septembre, avec environ +27 % sur un an à cette date. Elle est dans le bloc grâce à des résultats T2 supérieurs aux attentes (BPA ajusté 2,39 € contre 2,23 € attendu, CA 544,4 M€ contre 522,6 M€) et à un consensus majoritairement à l'achat. À surveiller : le cours dépasse la cible moyenne des analystes (≈ 165,50 €), la valorisation est élevée (PER ≈ 23) et le T3 est attendu début novembre (4 ou 5/11) ; je n'ai pas trouvé de catalyseur précis le 16/10."
+        },
+        {
+          "code": "TTE",
+          "valeur": "TotalEnergies",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "TotalEnergies (80,71 €, +0,62 %) évolue à deux pas de son record de 81,35 € atteint le 15/10, après un point d'activité T3 annonçant une production en hausse et des résultats très favorables ; elle gagne environ 45 % depuis janvier. Elle est dans le bloc grâce à cette tendance haussière installée (plus bas à 73,45 € le 02/10) et au soutien du Brent (moyenne de 103,8 $ au T2) et des marges de raffinage. À surveiller : forte sensibilité au pétrole (±10 $ sur les liquides ≈ ±2,3 Md$ de résultat net ajusté), conflit au Moyen-Orient et cours proche de la cible moyenne des analystes (84,67 €) ; résultats T3 le 29/10."
+        },
+        {
+          "code": "VIE",
+          "valeur": "Veolia",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Veolia (32,40 €) s'appuie sur de bons résultats du S1 (30/07) : EBITDA 3,55 Md€ (+5 %), résultat net courant 837 M€ (+10,4 %) et objectif 2026 relevé à au moins +8 % de croissance du résultat net courant, acquisition Clean Earth incluse. Elle est dans le bloc pour sa progression avec volumes ; je n'ai pas trouvé de catalyseur précis en octobre. À surveiller : la dette nette est passée de 20,76 à 24,55 Md€ en un an (acquisitions), le plan de cessions de 2 Md€ d'ici mi-2028 n'est signé qu'à environ 25 %, et l'écart entre résultat publié (682 M€) et courant (837 M€) est à suivre."
+        },
+        {
+          "code": "VANTI",
+          "valeur": "Vantiva",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "Vantiva (0,082 € dans le fichier, contre 0,0742 € la veille) rebondit sur des volumes modestes (≈ 31 000 titres à 15h37) mais reste à -46 % depuis le 1er janvier, pour une capitalisation d'environ 37 M€. Il est dans le bloc pour cette hausse en séance ; la démission de Bpifrance Participations du conseil (31/07, sans motif communiqué) reste un signal de gouvernance à surveiller. À surveiller : valeur très spéculative et peu liquide, pertes attendues (BPA 2025 : -0,27 €, prévision 2026 : -0,04 €) ; CA T3 le 28/10."
+        },
+        {
+          "code": "COTY",
+          "valeur": "Coty",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "Coty a gagné 8,33 % le 15/10 (3,18 $ à New York ; 2,88 € dans le fichier) sans catalyseur identifié dans mes recherches, après des résultats FY26 contrastés : CA 1,27 Md$ (+1,3 %), ventes comparables -1 %, EBITDA ajusté -26 % au T4. Il est dans le bloc pour ce rebond sur volumes depuis des niveaux très bas ; la sortie anticipée de la licence Gucci rapporte 400 M$ et la dette nette est ramenée à 2,9 Md$. À surveiller : levier encore ≈ 3,4x, exercice 2027 présenté comme une année de transition sans guidance annuelle, revue stratégique attendue d'ici fin 2026 et Goldman Sachs à Neutre (07/10) ; prochaine publication estimée vers le 04/11."
+        }
+      ]
+    },
     "Etoiles": {
       "date": "10/10/2026",
       "items": [
@@ -75,7 +150,7 @@
         }
       ]
     },
-    "Les valeurs qui montent": {
+    "Les valeurs qui montent (03/10)": {
       "date": "03/10/2026",
       "items": [
         {
