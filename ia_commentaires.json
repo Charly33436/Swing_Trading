@@ -1,6 +1,81 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "23/10/2026",
+      "items": [
+        {
+          "code": "SW",
+          "valeur": "Sodexo",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Sodexo (59,95 € dans le fichier, environ +6 % le 23/10, plus haut du jour 60,25 €) bondit après l'annonce d'un chiffre d'affaires de 23,96 Md€ supérieur aux attentes, d'une croissance organique de 2,0 % et de la confirmation de ses objectifs ; il franchit 58,40 € et sa moyenne mobile à 20 jours. Il est dans le bloc grâce à ce gap haussier sur gros volumes (environ 183 000 titres à 14h26), dans le prolongement des relèvements de JP Morgan (17/09, surpondérer, objectif 68 €) et de BofA (22/07, achat). À surveiller : la marge d'exploitation courante guidée à 3,2-3,4 % reste très inférieure aux 4,7 % de l'exercice 2025, Entreprises et Administrations a reculé de 13,2 % en Amérique du Nord au T3 et le plan de 1 097 suppressions de postes en France (août) rappelle la pression sur les coûts."
+        },
+        {
+          "code": "EC",
+          "valeur": "TotalEnergies Gabon",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "TotalEnergies Gabon (233,50 €, +2,19 % le 23/10, de 228,50 € à 233,50 €) progresse sur seulement 937 titres échangés, sans actualité propre trouvée ce jour ; il accompagne vraisemblablement la forte hausse du pétrole et de TotalEnergies (+4,3 %). Il est dans le bloc pour cette progression et une tendance de fond haussière, même si le dernier avis technique que j'ai trouvé date du 19/05 (objectif 280 €, support 223 €). À surveiller : le bénéfice net du T2 a chuté de 87 % à 6 M$ (effet de stock de -69 M$) malgré un chiffre d'affaires en hausse de 13 %, la production recule à 15 000 b/j (-7 %) et la liquidité est très faible ; le dividende de 2025 (22,22 $, soit 18,88 € par action versés en juin) représente environ 8 % du cours."
+        },
+        {
+          "code": "TTE",
+          "valeur": "TotalEnergies",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "TotalEnergies (83,45 €, +4,34 % le 23/10, plus haut 83,74 €) franchit la résistance de 81,63 € et dépasse son précédent record de 81,35 € du 15/10, sur près de 4,7 millions de titres. Il est dans le bloc grâce à cette cassure appuyée par un point d'activité T3 très favorable (15/10) : production attendue à 2,45-2,50 Mboe/j, Brent moyen à 97 $/b, marge de raffinage européenne à 33,2 $/b contre 13,5 $/b au T2 et aval qualifié d'« exceptionnel ». À surveiller : résultats T3 attendus vers le 29/10, forte sensibilité au pétrole (±10 $/b sur les liquides ≈ ±2,3 Md$ de résultat net opérationnel ajusté), Brent en repli par rapport aux 103,8 $ du T2 et conflit au Moyen-Orient qui pèse sur environ 5 % de la production."
+        },
+        {
+          "code": "SWP",
+          "valeur": "Sword Group",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Sword Group (32,40 € dans le fichier, +10,2 % le 23/10 contre 29,40 € la veille) a ouvert à 30,00 € et clôturé sur son plus haut de séance (32,50 €) après la publication d'un chiffre d'affaires de 100,2 M€ au T3 2026. Il est dans le bloc pour ce gap haussier sur la publication, dans la continuité d'un S1 en croissance de 12,6 % avec une rentabilité de 12 %. À surveiller : je n'ai pas retrouvé la croissance organique exacte du T3, les volumes restent modestes (environ 33 400 titres) et le secteur des services numériques est exposé aux craintes liées à l'IA, ce qui peut rendre le titre volatil après un tel bond."
+        },
+        {
+          "code": "SOP",
+          "valeur": "Sopra Steria",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Sopra Steria (185,00 €, +1,54 % le 23/10, plus bas du jour 178,50 €) rebondit en fin de séance et reste bien au-dessus de son niveau d'avant le 29/07 (autour de 159 €), après le relèvement de la croissance organique 2026 à 2-2,5 % (contre 1-2 %) et une marge opérationnelle de 9,6 % au S1. Il est dans le bloc grâce à cette remontée avec volumes avant la publication du chiffre d'affaires T3, prévue le 29/10 avant l'ouverture. À surveiller : le titre est encore sous le pic de 197,80 € touché le 29/07, le flux de trésorerie du S1 reste négatif (-143,6 M€ pour un objectif annuel d'environ 5 % du chiffre d'affaires) et le secteur doute de la capacité de l'IA à générer une croissance rentable (avertissements d'Accenture et d'IBM)."
+        },
+        {
+          "code": "RUI",
+          "valeur": "Rubis",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Rubis (35,96 €, +2,74 % le 23/10 contre 35,00 € la veille, volume d'environ 227 000 titres) clôture sur son plus haut du jour, dans la foulée du projet annoncé le 19/10 d'abandonner le statut de commandite pour devenir une société anonyme avec directoire et conseil de surveillance. Il est dans le bloc grâce à cette dynamique, soutenue par le relèvement de l'objectif d'Ebitda 2026 à 775-825 M€ (08/09, S1 à 434 M€, +18 %) porté par la demande et des marges favorables liées au pétrole. À surveiller : la dépendance aux cours du pétrole, la gouvernance (le principal actionnaire a quitté le conseil de surveillance le 10/08) et la zone de 36 € (le titre était repassé au-dessus de 36,10 € le 19/10)."
+        },
+        {
+          "code": "ABCA",
+          "valeur": "ABC Arbitrage",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "ABC Arbitrage (5,83 € dans le fichier, +1,4 % contre 5,75 € la veille) progresse sans catalyseur identifié le 23/10, sur des volumes modestes (environ 47 000 titres à 16h20). Il est dans le bloc grâce à son S1 2026 solide (22/09) : résultat net de 26,0 M€ (+47 %), BNPA de 0,44 € (0,30 € un an plus tôt), ROE annualisé de 27,4 %, avec des volumes de marché en hausse d'environ 25 % liés au conflit entre les États-Unis et l'Iran. À surveiller : la performance dépend de la volatilité des marchés (VIX moyen d'environ 18 % au semestre) et reste irrégulière ; l'acompte de 0,20 € (environ 3,4 % du cours) est détaché le 24/11 avec option en actions à 4,54 €."
+        },
+        {
+          "code": "VIRI",
+          "valeur": "Viridien",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Viridien (93,70 €, +6,84 % le 23/10, +9,3 % sur la semaine, +25 % sur un an) se rapproche de sa résistance à 97,80 € ; je n'ai pas trouvé de catalyseur précis ce jour. Il est dans le bloc grâce à cette poussée sur volumes, au-dessus de la MM50 (89,71 €) mais encore sous la MM200 (107 €), dans un flux de contrats positif (accord multi-clients avec l'ONHYM au Maroc le 07/10, contrat de cinq ans avec Ithaca Energy le 18/09) et un objectif médian des analystes de 142 € (3 bureaux, Goldman Sachs à 113 € le 05/10). À surveiller : résultats du T3 le 03/11 après clôture, volatilité élevée (environ 65 % annualisée), positions vendeuses déclarées (1,46 % Citadel, 1,99 % Marshall Wace) et un marché des services pétroliers sensible au prix du baril."
+        },
+        {
+          "code": "DSY",
+          "valeur": "Dassault Systèmes",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Dassault Systèmes (24,44 € dans le fichier, +1,6 %) prolonge un rebond marqué : +9,3 % sur la semaine et +12,3 % sur le mois au 16/10, depuis un plus bas annuel de 15,83 € en février et un test de 20,16 € le 17/09. Il est dans le bloc grâce à cette dynamique avec volumes avant les résultats T3 du 28/10 (objectifs : chiffre d'affaires de 1,497 à 1,537 Md€, BPA non-IFRS de 0,30 à 0,31 €), les objectifs annuels (chiffre d'affaires de 6,296 à 6,416 Md€) ayant été confirmés le 23/07. À surveiller : RSI en surachat (73 au 16/10), titre encore en baisse d'environ 18 % sur douze mois, chiffre d'affaires du S1 en recul de 1 % et sensibilité du secteur logiciel aux craintes liées à l'IA."
+        },
+        {
+          "code": "ATEME",
+          "valeur": "Ateme",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Ateme (11,30 €, +0,89 % le 23/10, plus bas du jour 10,65 €) clôture sur son plus haut de séance au lendemain de la publication de son chiffre d'affaires T3 de 24,6 M€, en hausse (le taux de croissance n'apparaît pas dans ce que j'ai trouvé). Il est dans le bloc grâce à ce rebond intraday sur la publication, après un S1 marqué par le retour aux bénéfices (résultat opérationnel de 3,6 M€, résultat net de 2,9 M€, chiffre d'affaires de 50,4 M€, +20 %) et l'initiation à l'achat d'Euroland Corporate le 28/09 (objectif 20,30 €). À surveiller : volumes très faibles (environ 15 800 titres), dette financière nette de 16,1 M€ (dont 14,5 M€ de préfinancement du CIR), cibles d'Ebitda de 15 M€ en 2026 et 22 M€ en 2027 à confirmer, et l'objectif d'Euroland (étude commanditée) reste très éloigné du cours."
+        }
+      ]
+    },
+    "Les valeurs qui montent (17/10)": {
       "date": "17/10/2026",
       "items": [
         {
