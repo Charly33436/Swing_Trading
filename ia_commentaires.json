@@ -1,6 +1,81 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "30/10/2026",
+      "items": [
+        {
+          "code": "NK",
+          "valeur": "Imerys",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Imerys (25,34 € dans le fichier) prolonge son rebond depuis les 22,4 € de la mi-septembre, porté par des résultats semestriels meilleurs que prévu (EBITDA ajusté de 290 M€, +10 % à change constant, marge de 16,6 %) et un objectif 2026 d'EBITDA de 550 à 580 M€. Il figure dans le bloc grâce à ce regain de momentum après le bond de près de 10 % du 30 juillet. À surveiller : les résultats du 3e trimestre, attendus le 29/10 après Bourse, dont je n'ai pas retrouvé le détail, et la clause « hors dégradation notable de la conjoncture » de la guidance."
+        },
+        {
+          "code": "SCR",
+          "valeur": "SCOR",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "SCOR (34,56 €) évolue près de l'objectif moyen des analystes, autour de 34 €, après un 2e trimestre supérieur aux attentes (résultat net ajusté de 188 M€ contre environ 150 M€ attendus, ROE ajusté de 18 %) et un ratio combiné P&C de 79,5 %. Il est dans le bloc grâce à une hausse régulière soutenue par la solidité du bilan (solvabilité de 220 % au 1er trimestre) et une faible sinistralité. À surveiller : le détail des résultats du 3e trimestre publiés le 30/10, que je n'ai pas pu consulter, la baisse du résultat L&H (49 M€ au 2e trimestre contre 118 M€ un an plus tôt) et le recul des prix en réassurance dommages."
+        },
+        {
+          "code": "TTE",
+          "valeur": "TotalEnergies",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "TotalEnergies (85,43 €) gagne plus de 10 % depuis juillet (environ 76 €), soutenu par un Brent resté élevé (103,8 $ de moyenne au 2e trimestre), une marge de raffinage européenne de 33,2 $/b au 3e trimestre contre 13,5 $ au 2e, et un 3e acompte de dividende de 0,90 € (+5,9 %). Le groupe a aussi annoncé le 28/10 l'acquisition de 25 % dans 26 actifs d'exploration opérés par Chevron. À surveiller : la durabilité des marges de raffinage et des prix du brut, liés aux tensions au Moyen-Orient (détroit d'Ormuz), et le détail des résultats du 3e trimestre du 29/10, que je n'ai pas retrouvé."
+        },
+        {
+          "code": "ARAMI",
+          "valeur": "Aramis",
+          "tendance": "Hausse",
+          "score": 2,
+          "commentaire": "Aramis Group (3,81 €) rebondit d'environ 9 % depuis les 3,50 € du 22/10, mais le fond reste difficile : chiffre d'affaires du 3e trimestre de 559,2 M€ (-5,4 %), volumes B2C en recul de 2,7 % et objectifs 2026 abaissés en mai (au moins 110 000 véhicules B2C, EBITDA ajusté de 35 à 45 M€). Il est dans le bloc pour ce rebond avec volumes, pas pour une amélioration des fondamentaux. À surveiller : les résultats annuels du 25/11 et la capacité à tenir la guidance dans un marché des véhicules pré-immatriculés dégradé."
+        },
+        {
+          "code": "IPN",
+          "valeur": "Ipsen",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Ipsen (157,60 €) a relevé le 22/10 ses objectifs 2026 pour la seconde fois : croissance d'environ 23 % à change constant (contre plus de 20 %) et marge opérationnelle d'environ 39 %, après des ventes de 3 364 M€ sur 9 mois (+24,6 % à change constant) tirées par les Maladies rares (près de +100 %). Le titre est dans le bloc grâce à cette dynamique de résultats exceptionnellement forte. À surveiller : l'écart avec le plus haut sur 52 semaines (174 €, relevé en août) et un objectif moyen des analystes proche de 163 € à cette date, qui laisse un potentiel limité."
+        },
+        {
+          "code": "AI",
+          "valeur": "Air Liquide",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Air Liquide (180,90 €) affiche un 1er semestre solide (ventes de 13,83 Md€, +2,6 % en comparable, accélération à +3,5 % au 2e trimestre) et des objectifs 2026 confirmés. Il figure dans le bloc grâce à une progression régulière, portée par l'Électronique, la Santé et l'intégration de DIG Airgas. À surveiller : le chiffre d'affaires du 3e trimestre (consensus autour de +3 % en comparable), dont je n'ai pas retrouvé la publication, et la faiblesse de la Grande Industrie en Europe observée au 1er trimestre."
+        },
+        {
+          "code": "AMUN",
+          "valeur": "Amundi",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Amundi (91,15 €) reste porté par des résultats records au 2e trimestre (résultat net ajusté de 431 M€, +29 %, collecte nette de 24,4 Md€, encours de 2 581 Md€) et par une plus-value d'environ 300 M€ liée à l'introduction en Bourse de SBI Funds Management, à comptabiliser au 3e trimestre. Il est dans le bloc grâce à ce momentum fondamental, même si le cours reste sous les 94-97 € touchés fin juillet. À surveiller : les résultats du 3e trimestre, dont je n'ai pas retrouvé la publication, les sorties de clientèle institutionnelle (-7 Md€ au 2e trimestre) et l'échéance du contrat de distribution UniCredit en juillet 2027."
+        },
+        {
+          "code": "DSY",
+          "valeur": "Dassault Systèmes",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Dassault Systèmes (25,26 €) rebondit après un 3e trimestre supérieur aux attentes (chiffre d'affaires de 1 552 M€, +5 % à change constant, marge opérationnelle IFRS de 22,3 % contre 18,6 %) et un relèvement des objectifs 2026 (chiffre d'affaires de 6 399 à 6 459 M€, +4 à 5 %) avec l'intégration d'ArisGlobal. Il est dans le bloc après avoir cédé jusqu'à 2 % le 28/10 malgré ces annonces puis repris du terrain, mais il reste bien sous son plus haut sur 52 semaines (30,36 €) après la chute de 19 % de février. À surveiller : la capacité à relancer la croissance dans un contexte difficile pour les éditeurs de logiciels et la digestion de l'acquisition d'ArisGlobal."
+        },
+        {
+          "code": "BAIN",
+          "valeur": "Société des Bains de Mer",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "La Société des Bains de Mer (147 €) évolue sur des plus hauts annuels, portée par un chiffre d'affaires de 271,3 M€ au 1er trimestre 2026/27 (+11 %, jeux +16 %), un été en hausse de 8 % et un exercice 2025/26 record (861,6 M€, résultat net part du groupe de 112,9 M€). Il est dans le bloc grâce à cette dynamique hôtelière et jeux. À surveiller : la valorisation (PER d'environ 30, cours au-dessus de l'objectif de 141 € d'un seul analyste), le caractère aléatoire des jeux (aucune prévision annuelle) et la faible liquidité du titre."
+        },
+        {
+          "code": "MAU",
+          "valeur": "Maurel & Prom",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Maurel & Prom (8,14 €) consolide autour de 8,1-8,2 € depuis début octobre après une forte envolée en début d'année, avec un chiffre d'affaires de 574 M$ sur 9 mois (+17 %, prix de vente moyens +40 %) et une production en hausse de 10 % au 3e trimestre par rapport au 2e. Il est dans le bloc pour ses résultats en forte progression (résultat net semestriel de 191 M$, +78 %), mais la tendance du cours est surtout latérale. À surveiller : l'évolution du prix du pétrole, la finalisation de l'acquisition des actifs Gran Tierra (Colombie et Équateur) et le refinancement attendus au 4e trimestre."
+        }
+      ]
+    },
+    "Les valeurs qui montent (23/10)": {
       "date": "23/10/2026",
       "items": [
         {
