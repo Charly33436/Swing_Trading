@@ -1,6 +1,81 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "06/11/2026",
+      "items": [
+        {
+          "code": "ATEME",
+          "valeur": "Ateme",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Ateme (12,9 € dans le fichier) a publié un chiffre d'affaires de 24,6 M€ au 3e trimestre 2026 (+18 %, +15 % à périmètre comparable) et de 74,9 M€ sur neuf mois (+19 %), avec un récurrent mensuel de 3,3 M€ (+21 %) et un objectif d'EBITDA 2026 de 15 M€ confirmé. Il figure dans le bloc grâce à cette dynamique, un seul analyste suivant le titre (achat, objectif 20,3 €), ce qui limite la portée du signal. À surveiller : la trajectoire vers l'ambition d'EBITDA de 22 M€ en 2027 et la liquidité d'une petite valeur."
+        },
+        {
+          "code": "AF",
+          "valeur": "Air France-KLM",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "Air France-KLM (13,53 €) avait publié au 1er trimestre 2026 une perte d'exploitation réduite à 27 M€ (contre 328 M€ un an plus tôt) et un chiffre d'affaires de 7,48 Md€ (+4,4 %), mais ramené sa croissance de capacité 2026 à 2-4 % face à une facture carburant estimée à 9,3 Md$ (+2,4 Md$). Je n'ai pas retrouvé le détail des résultats du 3e trimestre 2026, donc la raison exacte de sa présence dans le bloc reste à confirmer. À surveiller : le prix du carburant, que la direction dit devoir peser sur les prochains trimestres, et les chiffres du 3e trimestre."
+        },
+        {
+          "code": "LNA",
+          "valeur": "LNA Santé",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "LNA Santé (26,4 €) a affiché au 1er semestre 2026 un chiffre d'affaires opérationnel de 465,1 M€ (+8,0 %, dont 7,0 % en organique), un résultat net opérationnel de 14,9 M€ (+8,3 %) et relevé son objectif de croissance organique 2026 à 6 % (contre 5 %). Il est dans le bloc grâce à cette croissance régulière, malgré une marge d'EBITDA en recul de 34 points de base à 8,2 % à cause de restructurations. À surveiller : la marge, et l'objectif de flux de trésorerie libre abaissé à 40-45 M€ (contre 50 M€)."
+        },
+        {
+          "code": "OVH",
+          "valeur": "OVHcloud",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "OVHcloud (14,14 €) a publié le 20/10 un exercice 2026 avec un chiffre d'affaires de 1,145 Md€ (+7,2 % à périmètre comparable), un EBITDA ajusté de 480,5 M€ et un premier flux de trésorerie libre positif de 24,7 M€, puis visé plus de 10 % de croissance en 2027. Le titre avait alors bondi d'environ 9,7 % à 16,26 € après une baisse de 18 % le mois précédent, ce qui place le cours du fichier nettement sous ce niveau, sans que j'aie l'explication. À surveiller : la confirmation de la croissance de plus de 10 % en 2027, l'avis mitigé d'Oddo BHF et le retour au-dessus de 16 €."
+        },
+        {
+          "code": "SCHP",
+          "valeur": "Séché Environnement",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Séché Environnement (78,7 €) a publié le 27/10 un chiffre d'affaires contributif de 308,8 M€ au 3e trimestre (+11,4 %, +4,6 % en organique) et de 916,6 M€ sur neuf mois (+6,9 %), en confirmant son objectif 2026 de 1 230 à 1 260 M€. Il est dans le bloc grâce à cette accélération trimestrielle. À surveiller : la croissance organique sur neuf mois quasi nulle (+0,2 %), qui montre que l'essentiel de la hausse vient du périmètre."
+        },
+        {
+          "code": "GPE",
+          "valeur": "GPE Pizzorno Environnement",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "GPE (62,6 €) fait l'objet d'une offre publique d'achat simplifiée de Paprec à 62,5 € par action, après l'autorisation de l'Autorité de la concurrence et la prise de contrôle par Paprec ; la note en réponse a reçu son visa de l'AMF le 26/10 et l'offre doit être ouverte pendant 10 jours de négociation. Le titre est dans le bloc parce qu'il s'est aligné sur le prix de l'offre, ce qui limite le potentiel de hausse. À surveiller : l'avis d'ouverture de l'offre, l'absence annoncée de retrait obligatoire (possible faible liquidité après l'offre) et les dates exactes que je n'ai pas retrouvées."
+        },
+        {
+          "code": "VIL",
+          "valeur": "Viel",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Viel (18,62 €) a publié au 1er semestre 2026 un chiffre d'affaires de 696,0 M€ (+11,5 % à change constant, +6,5 % publié), un résultat net part du groupe de 77,3 M€ (+17,2 % à change constant), avec Bourse Direct en hausse de 16,7 % du nombre d'ordres. Il est dans le bloc grâce à ces résultats et à des marchés actifs, qui profitent à ses activités d'intermédiation. À surveiller : la dépendance à l'activité des marchés, le résultat de Swisslife Banque Privée en retrait et l'écart entre croissance à change constant et publiée."
+        },
+        {
+          "code": "VK",
+          "valeur": "Vallourec",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Vallourec (18,91 €) a affiché au 2e trimestre 2026 un RBE de 190 M$ (-9 %) sur 886 M$ de chiffre d'affaires (-10 %), un résultat net de 55 M$ et une trésorerie nette de 183 M$, la plus haute depuis 2009, avec un RBE du 3e trimestre attendu entre 170 et 210 M$. Il est dans le bloc grâce à la solidité du bilan et aux rachats d'actions, malgré des résultats en baisse. À surveiller : les résultats du 3e trimestre, que je n'ai pas retrouvés, et la demande américaine de tubes pétroliers."
+        },
+        {
+          "code": "VCT",
+          "valeur": "Vicat",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Vicat (66,5 €) a relevé le 29/07 ses objectifs 2026 après un 1er semestre où le chiffre d'affaires progresse de 10,8 % à périmètre et change constants et l'EBITDA de 13,6 %, grâce à des prix en hausse presque partout et au redressement des volumes aux États-Unis. Il est dans le bloc par ce momentum fondamental et boursier. À surveiller : les chiffres exacts des nouveaux objectifs, que je n'ai pas retrouvés, et le chiffre d'affaires sur neuf mois."
+        },
+        {
+          "code": "ABCA",
+          "valeur": "ABC Arbitrage",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "ABC Arbitrage (5,88 €) a dégagé au 1er semestre 2026 un résultat net part du groupe de 26,0 M€ (+47 %), un produit de l'activité courante de 51,0 M€ (+40 %), un BNPA de 0,44 € et un ROE annualisé de 27,4 %, soutenus d'après la presse par un épisode de stress sur les marchés. Il est dans le bloc grâce à ces résultats et à un acompte sur dividende de 0,20 € par action. À surveiller : le détachement le 24/11 (paiement le 11/12) et la fragilité de ces résultats si la volatilité retombe."
+        }
+      ]
+    },
+    "Les valeurs qui montent (30/10)": {
       "date": "30/10/2026",
       "items": [
         {
