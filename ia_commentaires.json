@@ -1,6 +1,81 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "13/11/2026",
+      "items": [
+        {
+          "code": "ATEME",
+          "valeur": "ATEME",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Chiffre d'affaires du T3 2026 de 24,6 M€ (+18 %, +15 % à périmètre comparable), +19 % sur 9 mois grâce à l'Amérique du Nord (+36 %). Le revenu récurrent mensuel atteint 3,31 M€ en octobre (+21 % sur un an) et les objectifs sont confirmés (EBITDA de 15 M€ en 2026, 22 M€ visés en 2027), ce qui explique la hausse avec volumes à 14,30 €. À surveiller : la tenue de l'objectif d'EBITDA 2026 et la trésorerie, non détaillée dans la publication."
+        },
+        {
+          "code": "VMX",
+          "valeur": "VERIMATRIX",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "T3 2026 en reprise : chiffre d'affaires Anti-Piracy de 10,4 M$ (+20 %), mais 31,6 M$ sur 9 mois (-3 %), après la cession de la ligne XTD en février. Objectifs 2026 confirmés (croissance de 5 % et EBITDA Anti-Piracy supérieur à 3 M$), et le titre rebondit autour de 0,32 €, sur une valeur très petite et volatile. À surveiller : la part du récurrent tombée à 69 % (78 % un an plus tôt), la maintenance en baisse de 13 % et l'absence d'information sur la dette et la trésorerie."
+        },
+        {
+          "code": "ADOC",
+          "valeur": "ADOCIA",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Aucun chiffre d'affaires au T3 2026 (406 k€ un an plus tôt) et trésorerie de 8,4 M€ au 30 septembre, contre 17,2 M€ fin 2025. Le financement de 7 M€ annoncé le 20 octobre repousse l'horizon de trésorerie au T1 2028, et les avancées de BC Lispro en Chine (demande d'autorisation en cours de finalisation) soutiennent le titre vers 4,67 €. À surveiller : la dilution, la dépendance au paiement d'étape de 20 M$ et le calendrier réglementaire chinois."
+        },
+        {
+          "code": "VIL",
+          "valeur": "VIEL",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Les filiales opérationnelles dépassent le milliard d'euros de chiffre d'affaires sur 9 mois (1 020 M€, plus de 8 % de croissance, publié le 12/11). Au S1 2026, le résultat net part du groupe progresse de 11,6 % (77,3 M€) pour un chiffre d'affaires de 696 M€ (+6,5 %), ce qui justifie la tendance haussière vers 20,20 €. À surveiller : l'effet de change qui pèse sur la croissance publiée et le caractère cyclique des marchés financiers dont dépend l'activité."
+        },
+        {
+          "code": "AI",
+          "valeur": "AIR LIQUIDE",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Chiffre d'affaires du T3 2026 de 7,26 Md€ (+3 % en comparable), au-dessus du consensus de 7,08 Md€, avec une accélération des volumes portée par l'Electronique et l'Industriel Marchand. Les objectifs 2026 sont confirmés (+100 points de base de marge hors énergie), ce qui explique la progression régulière vers 193 €. À surveiller : l'Ingénierie & Technologies en recul de 14 % et une valorisation déjà exigeante pour un titre défensif."
+        },
+        {
+          "code": "AF",
+          "valeur": "AIR FRANCE-KLM",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Le 5 novembre, le titre a bondi de plus de 13 % en séance après un T3 2026 très au-dessus des attentes : résultat d'exploitation ajusté de 1,35 Md€ (+10 %), chiffre d'affaires de 9,9 Md€ et résultat net part du groupe de 908 M€ (+24 %, consensus à 519 M€). Le cours est ainsi à 14,35 €, avec un levier maintenu à 1,6x. À surveiller : la facture carburant, relevée à 9,2 Md$ pour 2026, la dette nette de 8,76 Md€ et un mouvement de rebond déjà bien avancé."
+        },
+        {
+          "code": "DKUPL",
+          "valeur": "DEKUPLE",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Au S1 2026 (publié le 31 août), chiffre d'affaires de 121,9 M€ (+3,9 %) et marge nette de 90,3 M€ (+2,2 %), avec un international dynamique (+24 % en organique) mais une France en recul de 2 %. Le titre à 22,50 € profite du plan Ambition 2030 et de l'acquisition de Subko & Co en Pologne. À surveiller : la revue stratégique de l'activité Assurance et le fait que les données de résultat net et de dette ne figurent pas dans les éléments vérifiés."
+        },
+        {
+          "code": "CS",
+          "valeur": "AXA",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Selon les titres de presse du 29 et 30 octobre 2026, le chiffre d'affaires progresse de 5 % sur 9 mois et les objectifs 2026 sont confirmés, malgré un recul du ratio de solvabilité. Le titre autour de 47,10 € reste dans une hausse régulière de valeur défensive, mais je n'ai pas pu lire le détail des chiffres. À surveiller : le niveau du ratio de solvabilité, la sinistralité climatique et l'évolution des taux."
+        },
+        {
+          "code": "ENGI",
+          "valeur": "ENGIE",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Le 5 novembre, Engie annonce un EBIT hors nucléaire de 7,0 Md€ sur 9 mois (contre 6,3 Md€), avec 452 M€ issus d'UK Power Networks, et un chiffre d'affaires de 54,3 Md€ (+2,9 %). Le groupe vise désormais le haut de ses fourchettes 2026 (EBIT hors nucléaire de 9,2 à 10,2 Md€, résultat net récurrent de 4,9 à 5,5 Md€), ce qui soutient le cours à 25,28 €. À surveiller : la chute d'environ 4 Md€ du cash-flow opérationnel (besoin en fonds de roulement) et la normalisation des prix de l'énergie."
+        },
+        {
+          "code": "IDIP",
+          "valeur": "IDI",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Au S1 2026, l'ANR par action ressort à 101,90 € (+8,2 % depuis fin 2025) et le résultat net part du groupe à 57,1 M€ (14,8 M€ un an plus tôt), pour un cours de 69,80 € qui reste très décoté (environ 31 %). Le titre est dans le bloc par sa tendance et ses volumes, et la vente de CFDP à AG2R La Mondiale est visée d'ici fin d'année. À surveiller : la publication du T3 attendue le 13 novembre, l'accord de l'ACPR sur CFDP et la volatilité d'un résultat tiré par les plus-values."
+        }
+      ]
+    },
+    "Les valeurs qui montent (06/11)": {
       "date": "06/11/2026",
       "items": [
         {
