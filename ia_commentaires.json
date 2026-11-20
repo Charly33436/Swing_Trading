@@ -1,6 +1,53 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "20/11/2026",
+      "items": [
+        {
+          "code": "SDG",
+          "valeur": "Synergie",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Chiffre d'affaires du T3 2026 de 917,2 M€ (+11,2 %, mais seulement +2,4 % à périmètre et change constants), tiré par l'international (+19 %) et les acquisitions en Suisse et au Canada, la France reculant de 1,2 %. Le titre est à 33,70 € au 20/11, en hausse de 8 % sur la séance et de 21 % sur cinq jours, ce qui explique sa présence dans le bloc. À surveiller : la croissance organique faible et la France atone, alors que le groupe cite des incertitudes économiques et géopolitiques persistantes."
+        },
+        {
+          "code": "SRP",
+          "valeur": "SRP Groupe",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "Le chiffre d'affaires net du T3 2026 est de 102,7 M€ (+0,7 % à périmètre comparable) après -6 % au T1 et -12 % au T2, soit un premier retour à la croissance, tandis que les volumes d'affaires restent en baisse (-3,3 %). Le cours est autour de 0,94 €, ce qui en fait une valeur très spéculative, et la direction qualifie elle-même l'amélioration de fragile. À surveiller : la chute des acheteurs actifs (-19,8 % sur neuf mois), les catégories Maison et Beauté en fort recul et le risque de non-respect d'un covenant bancaire évoqué le 23/09."
+        },
+        {
+          "code": "EXA",
+          "valeur": "Exail Technologies",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Chiffre d'affaires du T3 2026 de 121 M€ (+21 % en organique), 396 M€ sur neuf mois (+25 % en organique), et objectifs 2026 confirmés (croissance à deux chiffres, EBITDA courant progressant plus vite que le chiffre d'affaires). Le cours est de 125,80 € dans le fichier, quasiment au niveau de la clôture du 14/10 (125,5 €) après la publication, la dynamique opérationnelle justifiant sa place dans le bloc. À surveiller : le carnet de commandes à 1 001 M€ (-7 % sur un an) et des prises de commandes sur neuf mois en baisse de 53 % à cause du contrat de 400 M€ signé en 2025."
+        },
+        {
+          "code": "IMDA",
+          "valeur": "Immobilière Dassault",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Revenus locatifs de 26,9 M€ sur neuf mois (+5,6 %) grâce à l'immeuble du 88 rue de Rivoli acquis fin juillet 2025, mais -3,5 % à périmètre constant et -0,6 % au T3. Le titre cote 41,50 € au 20/11 (+2,5 % sur la séance), ce qui le place dans le bloc. À surveiller : le taux d'occupation tombé à 92,48 % (94,18 % fin juin) après le départ d'un locataire de bureaux, et les revenus annuels attendus le 01/02/2027."
+        },
+        {
+          "code": "ODET",
+          "valeur": "Compagnie de l'Odet",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Chiffre d'affaires du T3 2026 de 936 M€ (+53 % à périmètre et change constants) et de 2 580 M€ sur neuf mois (+21 %), porté par Bolloré Energy dont la hausse des prix pétroliers compense un recul des volumes de 9 %. Le cours est de 1 022 € dans le fichier, après le dividende exceptionnel de 380 € par action versé le 29/09 et un bénéfice du premier semestre en baisse à 54 M€. À surveiller : le pourvoi en cassation de CIAM Fund sur le dossier Vivendi et la poursuite des rachats d'actions Bolloré SE (114 millions de titres depuis janvier), qui pèsent sur la trésorerie."
+        },
+        {
+          "code": "ORIA",
+          "valeur": "Fiducial Real Estate",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "Chiffre d'affaires de 68,1 M€ sur neuf mois de l'exercice (+3,7 %), avec un T3 quasi stable (+0,6 % à 23,0 M€) et un objectif annuel de 89 à 90 M€ ; la hausse vient des loyers (+2,4 %) et de nouvelles mises en service. Le cours est de 159 € dans le fichier, mais je n'ai pas trouvé d'actualité récente expliquant son mouvement ni de donnée sur sa dernière variation. À surveiller : les investisseurs immobiliers restant attentistes et les résultats annuels de l'exercice clos au 30/09."
+        }
+      ]
+    },
+    "Les valeurs qui montent (13/11)": {
       "date": "13/11/2026",
       "items": [
         {
