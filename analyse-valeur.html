@@ -629,7 +629,7 @@ const $ = (s) => document.querySelector(s);
     const ang = (i) => -Math.PI / 2 + (i * 2 * Math.PI) / AX.length;
     const pt = (i, v) => [cx + Math.cos(ang(i)) * R * v / 100, cy + Math.sin(ang(i)) * R * v / 100];
     [25, 50, 75, 100].forEach((lv) => {
-      svg.append('polygon').attr('points', AX.map((_, i) => pt(i, lv).join(',')).join(' '))
+      svg.append('circle').attr('cx', cx).attr('cy', cy).attr('r', R * lv / 100)
         .style('fill', 'none').style('stroke', lv === 50 ? 'var(--cds-chart-reference)' : 'var(--cds-chart-grid)').style('stroke-dasharray', lv === 50 ? '4 3' : null);
     });
     AX.forEach((a, i) => {
@@ -640,7 +640,7 @@ const $ = (s) => document.querySelector(s);
     const tip = tipFor(el); el.style.position = 'relative';
     series.slice().sort((a, b) => (a.role === 'valeur') - (b.role === 'valeur')).forEach((s) => {
       const main = s.role === 'valeur';
-      svg.append('polygon').attr('points', s.v.map((v, i) => pt(i, v).join(',')).join(' '))
+      svg.append('path').attr('d', d3.line().curve(d3.curveCardinalClosed.tension(0.35))(s.v.map((v, i) => pt(i, v))))
         .style('fill', s.col).style('fill-opacity', main ? 0.22 : 0.06).style('stroke', s.col).style('stroke-width', main ? 2.4 : 1.6).style('stroke-dasharray', main ? null : '5 3');
       s.v.forEach((v, i) => {
         if (!s.has[i]) return; const [x, y] = pt(i, v);
