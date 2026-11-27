@@ -1,6 +1,81 @@
 {
   "blocs": {
     "Les valeurs qui montent": {
+      "date": "27/11/2026",
+      "items": [
+        {
+          "code": "COTY",
+          "valeur": "Coty",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "Pour le 1er trimestre fiscal 2027 (publié le 04/11), Coty affiche un chiffre d'affaires de 1 555 M$ (-1 %, -2 % à données comparables), un BPA ajusté de 0,16 $ au-dessus des attentes mais un EBITDA ajusté en recul de 7 %, et la dette nette est ramenée à 2,58 Md$ ; le titre avait décroché d'environ 11,5 % le 06/11 et revient dans le bloc à 4,02 € dans le fichier, sur un rebond technique. À surveiller : la direction qualifie l'exercice 2027 d'année de transition, avec un 2e trimestre attendu en baisse et une revue stratégique à conclure d'ici fin 2026."
+        },
+        {
+          "code": "NAE",
+          "valeur": "North Atlantic Energies",
+          "tendance": "Neutre",
+          "score": 2,
+          "commentaire": "North Atlantic France a relevé le 29/10 le prix de son offre publique à 75 € par action (contre 28,93 € initialement proposé), après l'objection des minoritaires et l'avis de l'expert indépendant Ledouble ; le titre, à 75,80 € dans le fichier, évolue donc autour du prix de l'offre, ce qui explique sa présence dans le bloc. À surveiller : l'avis motivé du conseil sur l'offre, l'absence de retrait obligatoire annoncée le 08/06 (le titre peut rester coté après l'offre) et le peu d'espace de hausse au-delà de 75 €."
+        },
+        {
+          "code": "LBIRD",
+          "valeur": "Lumibird",
+          "tendance": "Hausse",
+          "score": 3,
+          "commentaire": "Le chiffre d'affaires du 3e trimestre 2026 ressort à 54,1 M€ (+12 %) et à 168,8 M€ sur neuf mois (+8,8 %), avec une Photonique à +13,5 % ; Lumibird vise un 4e trimestre record et la vente de la division Médical à IPG Photonics pour 300 M€ doit être finalisée au plus tard le 31/12/2026, d'où un titre à 29 € dans le fichier. À surveiller : Stifel jugeait le 3e trimestre inférieur à ses attentes, et le calendrier de réalisation de la cession (conditions suspensives) reste à confirmer."
+        },
+        {
+          "code": "ATEME",
+          "valeur": "Ateme",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Ateme a publié le 22/10 un chiffre d'affaires de 24,6 M€ au 3e trimestre (+18 %) et de +19 % sur neuf mois (+22 % à données comparables), avec un revenu récurrent annuel attendu vers 42 M€ pour aborder 2027 et un EBITDA visé à 15 M€ en 2026 puis 22 M€ en 2027. Le titre, à 13,50 € dans le fichier, évolue près de ses plus hauts depuis 2021 (un record à 14,75 € a été signalé récemment), ce qui justifie sa place dans le bloc. À surveiller : la valorisation après une telle hausse et la tenue de l'objectif d'EBITDA 2027."
+        },
+        {
+          "code": "EXENS",
+          "valeur": "Exosens",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Exosens a annoncé le 27/10 un chiffre d'affaires de 133,8 M€ au 3e trimestre (+24 %, +20,5 % à périmètre constant) et confirmé ses objectifs 2026 (558 à 570 M€ de chiffre d'affaires, EBITDA ajusté de 186 à 192 M€), mais la marge brute ajustée est tombée à 48 % contre 52 % un an plus tôt et le titre a reculé d'environ 5,6 % ce jour-là. À 54,30 € dans le fichier, la valeur figure dans le bloc sur un rebond après un plus bas de 150 séances. À surveiller : la poursuite de la contraction de la marge brute."
+        },
+        {
+          "code": "CVX",
+          "valeur": "Carvolix",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "Carvolix (ex-Affluent Medical) a déposé le 22/09 son dossier de demande d'autorisation américaine pour le système Tavipilot, avec un lancement commercial visé début 2027, et Portzamparc a confirmé le 23/09 son conseil à l'achat avec un objectif de 7,60 € ; le titre est à 4,70 € dans le fichier, contre environ 5,80 € à cette date. À surveiller : les ressources ne sont sécurisées que jusqu'en février 2027 (octobre 2027 en cas de tirage intégral des 30 M€ d'obligations Claret, dilution maximale de 8,6 %) et la certification CE du logiciel est attendue avant fin 2026."
+        },
+        {
+          "code": "GNFT",
+          "valeur": "Genfit",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Genfit a annoncé le 05/11 des redevances Iqirvo en hausse de 188 % sur neuf mois et dit pouvoir financer ses activités au-delà de fin 2028 ; l'action gagnait environ 24 % sur un mois au 18/11 (10,42 €) et s'affiche à 11 € dans le fichier, au contact d'une résistance autour de 11,46 €. À surveiller : Ipsen représente 99,7 % des revenus de redevances, ce qui rend la société dépendante d'un seul produit et d'un seul partenaire."
+        },
+        {
+          "code": "AKW",
+          "valeur": "Akwel",
+          "tendance": "Baisse",
+          "score": 2,
+          "commentaire": "Le chiffre d'affaires d'Akwel recule de 17,4 % sur neuf mois à 603,4 M€ (-14,4 % au 3e trimestre à 188,4 M€), au-delà de la baisse annuelle de 12 à 15 % que le groupe maintient, avec une zone EMEA à -22,3 % ; la présence du titre dans le bloc à 7 € dans le fichier ressemble à un rebond technique plus qu'à une amélioration des fondamentaux. À surveiller : l'écart avec l'objectif annuel, la dépollution à -64,1 % et la trésorerie nette de 98,4 M€, qui reste un point d'appui."
+        },
+        {
+          "code": "ENX",
+          "valeur": "Euronext",
+          "tendance": "Hausse",
+          "score": 4,
+          "commentaire": "Euronext a publié le 05/11 un 3e trimestre au-dessus des attentes (chiffre d'affaires de 547,4 M€, +24,9 % ; EBITDA ajusté de 364,2 M€, +31,6 %, marge de 66,5 %) et lancé un rachat d'actions de 350 M€ à partir du 09/11, ce qui soutient le titre à 171,90 € dans le fichier, près du record de 178,50 € du 30/10. À surveiller : l'action a reculé de 2,3 % le 06/11 malgré ces annonces, signe d'attentes déjà élevées."
+        },
+        {
+          "code": "STMPA",
+          "valeur": "STMicroelectronics",
+          "tendance": "Neutre",
+          "score": 3,
+          "commentaire": "STMicroelectronics a publié le 29/10 un chiffre d'affaires de 3,76 Md$ au 3e trimestre (+17,9 %), mais l'action a cédé environ 14 % en trois mois dans une correction des semi-conducteurs et des valeurs liées à l'IA, et Morgan Stanley a ramené son objectif de 65 à 55 € en restant à surpondérer ; à 37,15 € dans le fichier, le titre rebondit près du support de 37,07 €. À surveiller : la tenue de ce support, la journée investisseurs du 18/11 et les résultats du 4e trimestre le 28/01/2027."
+        }
+      ]
+    },
+    "Les valeurs qui montent (20/11)": {
       "date": "20/11/2026",
       "items": [
         {
@@ -344,81 +419,6 @@
           "tendance": "Hausse",
           "score": 3,
           "commentaire": "Ateme (11,30 €, +0,89 % le 23/10, plus bas du jour 10,65 €) clôture sur son plus haut de séance au lendemain de la publication de son chiffre d'affaires T3 de 24,6 M€, en hausse (le taux de croissance n'apparaît pas dans ce que j'ai trouvé). Il est dans le bloc grâce à ce rebond intraday sur la publication, après un S1 marqué par le retour aux bénéfices (résultat opérationnel de 3,6 M€, résultat net de 2,9 M€, chiffre d'affaires de 50,4 M€, +20 %) et l'initiation à l'achat d'Euroland Corporate le 28/09 (objectif 20,30 €). À surveiller : volumes très faibles (environ 15 800 titres), dette financière nette de 16,1 M€ (dont 14,5 M€ de préfinancement du CIR), cibles d'Ebitda de 15 M€ en 2026 et 22 M€ en 2027 à confirmer, et l'objectif d'Euroland (étude commanditée) reste très éloigné du cours."
-        }
-      ]
-    },
-    "Les valeurs qui montent (17/10)": {
-      "date": "17/10/2026",
-      "items": [
-        {
-          "code": "RCO",
-          "valeur": "Rémy Cointreau",
-          "tendance": "Hausse",
-          "score": 3,
-          "commentaire": "Rémy Cointreau (51,55 €, +4,6 % le 16/10) a pris environ 20 % depuis le 07/10 (autour de 43,10 €), porté par des notes d'analystes anticipant une accélération de la croissance organique au T2 (Jefferies ≈ +2,5 %, JPMorgan ≈ +3,3 % avec un cognac à +7,7 %) et un avis à l'achat d'Invest Securities le 12/10. Il est dans le bloc pour cette dynamique acheteuse sur gros volumes avant la publication du CA T2 le 28/10. À surveiller : le bon chiffre est en grande partie anticipé (risque de « sell the news »), la croissance attendue sur l'exercice reste faible (+0,6 à +1,1 %) et les résultats semestriels (25/11) doivent détailler les objectifs moyen terme."
-        },
-        {
-          "code": "DEC",
-          "valeur": "JCDecaux",
-          "tendance": "Hausse",
-          "score": 4,
-          "commentaire": "JCDecaux a touché 25,64 € en séance le 15/10, un plus haut de 4 ans, après le passage à l'achat de Deutsche Bank (objectif 30 € contre 21 €) et la confirmation de CIC (29,50 €) ; le titre cumule environ +20 % sur le trimestre. Il est dans ce bloc grâce à cette dynamique haussière appuyée par des volumes et par un S1 solide (CA 1 799 M€, +4,6 %, digital à 42,8 %). À surveiller : le Moyen-Orient pèse (transport en recul à deux chiffres), la France recule de 1,9 % et la hausse rapide expose à des prises de bénéfices."
-        },
-        {
-          "code": "ETL",
-          "valeur": "Eutelsat",
-          "tendance": "Hausse",
-          "score": 3,
-          "commentaire": "Eutelsat rebondit fortement (1,766 € dans le fichier, contre 1,508 € la veille) après un plus bas historique de clôture à 1,37 € le 13/10 ; le titre a bondi le 14/10 sur des informations selon lesquelles Starlink aurait réduit ses services en Ukraine. Il est dans ce bloc pour ce rebond violent sur gros volumes, soutenu par les contrats IRIS² (plus de 5,4 Md€) et la montée en puissance de OneWeb (LEO ≈ 25 % du CA). À surveiller : le titre reste environ 60 % sous son sommet de mai (4,556 €), capex d'environ 1,2 Md€, concurrence de Starlink, consensus prudent (cible moyenne ≈ 2,0 à 2,3 €) ; CA T1 attendu le 29/10."
-        },
-        {
-          "code": "GLO",
-          "valeur": "GL events",
-          "tendance": "Hausse",
-          "score": 3,
-          "commentaire": "GL events a bondi d'environ 24 % le 15/10 (jusqu'à 30,20 € en séance, 31,40 € dans le fichier) après un T3 record (CA 415,9 M€, +44,3 %) et le relèvement de sa croissance 2026 à plus de 10 % à périmètre et change constants. Il figure dans le bloc grâce à ce gap haussier sur gros volumes ; CIC maintient l'achat avec un objectif de 37 €. À surveiller : trimestre probablement exceptionnel (Live +25 % sur 9 mois), Exhibitions en recul de 19,3 %, et le cours teste la MM200 (≈31,2 €) avant une résistance vers 35,75 €."
-        },
-        {
-          "code": "SW",
-          "valeur": "Sodexo",
-          "tendance": "Neutre",
-          "score": 3,
-          "commentaire": "Sodexo (56,35 €) reste soutenue par le relèvement de JP Morgan du 17/09 (surpondérer, objectif 68 € contre 54 €), qui voit un point d'inflexion avec un exercice 2027 marquant le premier retournement des nouveaux développements ; le titre avait alors gagné environ 4 % vers 58-59 €. Il est dans le bloc grâce à cette dynamique de rattrapage sur gros volumes (aucune actualité spécifique trouvée pour le 16/10). À surveiller : l'exécution commerciale doit confirmer, le plan de suppression de 1 097 postes en France (août) rappelle la pression concurrentielle et le cours n'a pas retrouvé son niveau post-relèvement."
-        },
-        {
-          "code": "ENX",
-          "valeur": "Euronext",
-          "tendance": "Hausse",
-          "score": 3,
-          "commentaire": "Euronext (167,20 €) dépasse le plus haut sur 52 semaines de 166,20 € relevé fin septembre, avec environ +27 % sur un an à cette date. Elle est dans le bloc grâce à des résultats T2 supérieurs aux attentes (BPA ajusté 2,39 € contre 2,23 € attendu, CA 544,4 M€ contre 522,6 M€) et à un consensus majoritairement à l'achat. À surveiller : le cours dépasse la cible moyenne des analystes (≈ 165,50 €), la valorisation est élevée (PER ≈ 23) et le T3 est attendu début novembre (4 ou 5/11) ; je n'ai pas trouvé de catalyseur précis le 16/10."
-        },
-        {
-          "code": "TTE",
-          "valeur": "TotalEnergies",
-          "tendance": "Hausse",
-          "score": 4,
-          "commentaire": "TotalEnergies (80,71 €, +0,62 %) évolue à deux pas de son record de 81,35 € atteint le 15/10, après un point d'activité T3 annonçant une production en hausse et des résultats très favorables ; elle gagne environ 45 % depuis janvier. Elle est dans le bloc grâce à cette tendance haussière installée (plus bas à 73,45 € le 02/10) et au soutien du Brent (moyenne de 103,8 $ au T2) et des marges de raffinage. À surveiller : forte sensibilité au pétrole (±10 $ sur les liquides ≈ ±2,3 Md$ de résultat net ajusté), conflit au Moyen-Orient et cours proche de la cible moyenne des analystes (84,67 €) ; résultats T3 le 29/10."
-        },
-        {
-          "code": "VIE",
-          "valeur": "Veolia",
-          "tendance": "Neutre",
-          "score": 3,
-          "commentaire": "Veolia (32,40 €) s'appuie sur de bons résultats du S1 (30/07) : EBITDA 3,55 Md€ (+5 %), résultat net courant 837 M€ (+10,4 %) et objectif 2026 relevé à au moins +8 % de croissance du résultat net courant, acquisition Clean Earth incluse. Elle est dans le bloc pour sa progression avec volumes ; je n'ai pas trouvé de catalyseur précis en octobre. À surveiller : la dette nette est passée de 20,76 à 24,55 Md€ en un an (acquisitions), le plan de cessions de 2 Md€ d'ici mi-2028 n'est signé qu'à environ 25 %, et l'écart entre résultat publié (682 M€) et courant (837 M€) est à suivre."
-        },
-        {
-          "code": "VANTI",
-          "valeur": "Vantiva",
-          "tendance": "Neutre",
-          "score": 2,
-          "commentaire": "Vantiva (0,082 € dans le fichier, contre 0,0742 € la veille) rebondit sur des volumes modestes (≈ 31 000 titres à 15h37) mais reste à -46 % depuis le 1er janvier, pour une capitalisation d'environ 37 M€. Il est dans le bloc pour cette hausse en séance ; la démission de Bpifrance Participations du conseil (31/07, sans motif communiqué) reste un signal de gouvernance à surveiller. À surveiller : valeur très spéculative et peu liquide, pertes attendues (BPA 2025 : -0,27 €, prévision 2026 : -0,04 €) ; CA T3 le 28/10."
-        },
-        {
-          "code": "COTY",
-          "valeur": "Coty",
-          "tendance": "Neutre",
-          "score": 2,
-          "commentaire": "Coty a gagné 8,33 % le 15/10 (3,18 $ à New York ; 2,88 € dans le fichier) sans catalyseur identifié dans mes recherches, après des résultats FY26 contrastés : CA 1,27 Md$ (+1,3 %), ventes comparables -1 %, EBITDA ajusté -26 % au T4. Il est dans le bloc pour ce rebond sur volumes depuis des niveaux très bas ; la sortie anticipée de la licence Gucci rapporte 400 M$ et la dette nette est ramenée à 2,9 Md$. À surveiller : levier encore ≈ 3,4x, exercice 2027 présenté comme une année de transition sans guidance annuelle, revue stratégique attendue d'ici fin 2026 et Goldman Sachs à Neutre (07/10) ; prochaine publication estimée vers le 04/11."
         }
       ]
     }
